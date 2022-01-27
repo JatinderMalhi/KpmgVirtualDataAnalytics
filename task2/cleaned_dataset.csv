@@ -6,7 +6,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 7,Female,6,1976-02-23,Financial Services,Affluent Customer,0,1,11.0,46,50,4 Delaware Trail,2210,NSW,Australia,9
 9,Female,97,1973-03-10,Argiculture,Affluent Customer,0,1,8.0,49,50,97736 7th Trail,2023,NSW,Australia,12
 11,Male,99,1954-04-30,Property,Mass Customer,0,0,9.0,68,70,93405 Ludington Park,3044,VIC,Australia,8
-12,Male,58,1994-07-21,Manufacturing,Mass Customer,0,0,8.0,27,30,44339 Golden Leaf Alley,4557,QLD,Australia,4
+12,Male,58,1994-07-21,Manufacturing,Mass Customer,0,0,8.0,28,30,44339 Golden Leaf Alley,4557,QLD,Australia,4
 13,Male,38,1955-02-15,Financial Services,High Net Worth,0,1,8.0,67,70,2 Sutherland Street,3799,VIC,Australia,6
 14,Female,85,1983-03-25,Financial Services,Affluent Customer,0,0,6.0,39,40,9 Mcbride Trail,2760,NSW,Australia,8
 15,Male,91,2000-07-13,Manufacturing,Mass Customer,0,0,1.0,22,20,9861 New Castle Avenue,2428,NSW,Australia,9
@@ -38,7 +38,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 51,Male,68,1959-12-05,Retail,Mass Customer,0,0,18.0,62,60,4853 Gulseth Avenue,4503,QLD,Australia,5
 52,Male,57,1988-06-22,Financial Services,Mass Customer,0,1,13.0,34,30,9 Michigan Terrace,2145,NSW,Australia,8
 53,Female,22,1954-04-18,Financial Services,Mass Customer,0,0,16.0,68,70,62 Steensland Road,4350,QLD,Australia,3
-54,Female,2,1966-07-24,Property,Mass Customer,0,1,18.0,55,60,6 Homewood Avenue,2142,NSW,Australia,8
+54,Female,2,1966-07-24,Property,Mass Customer,0,1,18.0,56,60,6 Homewood Avenue,2142,NSW,Australia,8
 55,Male,48,1956-09-24,Financial Services,Affluent Customer,0,1,7.0,65,60,15 Almo Lane,2029,NSW,Australia,10
 56,Male,44,1996-07-04,Property,Mass Customer,0,1,4.0,26,30,690 Glacier Hill Circle,2127,NSW,Australia,10
 58,Female,26,1967-07-04,Financial Services,Affluent Customer,0,1,17.0,55,60,18 Elgar Park,2166,NSW,Australia,9
@@ -73,7 +73,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 94,Male,33,1974-08-07,Manufacturing,Mass Customer,0,0,21.0,47,50,67234 Transport Hill,2777,NSW,Australia,7
 95,Female,67,1960-12-25,Manufacturing,Affluent Customer,0,1,8.0,61,60,72 Dorton Crossing,3133,VIC,Australia,10
 96,Male,33,1968-08-31,Manufacturing,Mass Customer,0,0,15.0,53,50,6 Heffernan Center,2125,NSW,Australia,11
-97,Male,16,1979-07-27,Financial Services,Mass Customer,0,1,10.0,42,40,6088 Roxbury Hill,2766,NSW,Australia,8
+97,Male,16,1979-07-27,Financial Services,Mass Customer,0,1,10.0,43,40,6088 Roxbury Hill,2766,NSW,Australia,8
 98,Female,19,1956-03-17,Health,Mass Customer,0,0,7.0,66,70,105 Shelley Alley,2209,NSW,Australia,10
 99,Male,97,1998-06-13,Financial Services,Mass Customer,0,0,3.0,24,20,079 Merry Park,2160,NSW,Australia,9
 100,Male,80,1968-05-11,Financial Services,Mass Customer,0,1,4.0,54,50,8722 Summit Alley,2065,NSW,Australia,12
@@ -98,9 +98,9 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 125,Female,94,1960-03-17,Property,Mass Customer,0,0,16.0,62,60,684 Northport Circle,2213,NSW,Australia,10
 126,Male,53,1992-10-15,Health,Mass Customer,0,1,3.0,29,30,8 Hagan Hill,4508,QLD,Australia,4
 127,Female,81,1974-12-03,Financial Services,Mass Customer,0,0,19.0,47,50,0 Pearson Crossing,4405,QLD,Australia,1
-128,Male,73,1977-07-17,Property,Mass Customer,0,1,12.0,44,40,10918 Merry Way,2452,NSW,Australia,5
-129,Male,64,1985-07-20,Financial Services,High Net Worth,0,1,19.0,36,40,97 Coolidge Trail,2142,NSW,Australia,9
-130,Male,32,1997-07-18,Manufacturing,Mass Customer,0,0,1.0,24,20,58 Helena Hill,2205,NSW,Australia,7
+128,Male,73,1977-07-17,Property,Mass Customer,0,1,12.0,45,40,10918 Merry Way,2452,NSW,Australia,5
+129,Male,64,1985-07-20,Financial Services,High Net Worth,0,1,19.0,37,40,97 Coolidge Trail,2142,NSW,Australia,9
+130,Male,32,1997-07-18,Manufacturing,Mass Customer,0,0,1.0,25,20,58 Helena Hill,2205,NSW,Australia,7
 131,Female,57,1964-10-16,Retail,High Net Worth,0,0,8.0,57,60,352 Forster Place,4132,QLD,Australia,3
 132,Female,5,1963-07-07,Manufacturing,Mass Customer,0,1,9.0,59,60,12306 Lawn Street,2145,NSW,Australia,8
 133,Male,12,1977-06-13,Financial Services,Mass Customer,0,1,16.0,45,40,19392 7th Trail,4744,QLD,Australia,1
@@ -109,19 +109,19 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 136,Male,46,1973-05-26,Manufacturing,High Net Worth,0,1,7.0,49,50,638 Thackeray Junction,4178,QLD,Australia,3
 137,Male,27,1987-11-21,Property,High Net Worth,0,0,10.0,34,30,869 Forster Circle,2112,NSW,Australia,10
 138,Male,5,1985-04-28,Financial Services,Affluent Customer,0,1,13.0,37,40,0 Golden Leaf Crossing,2033,NSW,Australia,9
-139,Male,1,1964-07-28,Telecommunications,Affluent Customer,0,0,4.0,57,60,215 Lindbergh Trail,4401,QLD,Australia,1
+139,Male,1,1964-07-28,Telecommunications,Affluent Customer,0,0,4.0,58,60,215 Lindbergh Trail,4401,QLD,Australia,1
 140,Male,9,1994-05-20,Manufacturing,Mass Customer,0,0,2.0,28,30,829 Washington Crossing,3186,VIC,Australia,9
 141,Male,67,1954-06-25,Financial Services,High Net Worth,0,1,10.0,68,70,585 Loomis Court,2097,NSW,Australia,11
 142,Male,57,1967-08-07,Health,Affluent Customer,0,0,17.0,54,50,68063 Blue Bill Park Center,3058,VIC,Australia,9
 143,Male,19,1957-09-01,Argiculture,Mass Customer,0,1,11.0,64,60,15673 Farmco Point,4017,QLD,Australia,6
-145,Male,33,1997-07-21,Financial Services,Mass Customer,0,0,4.0,24,20,7245 Cottonwood Center,2285,NSW,Australia,5
+145,Male,33,1997-07-21,Financial Services,Mass Customer,0,0,4.0,25,20,7245 Cottonwood Center,2285,NSW,Australia,5
 146,Male,34,1985-04-08,Manufacturing,Mass Customer,0,0,8.0,37,40,20382 Spohn Alley,2219,NSW,Australia,11
 147,Female,32,1973-12-06,Health,Mass Customer,0,1,10.0,48,50,12375 Cambridge Pass,2065,NSW,Australia,11
 149,Female,41,1995-01-31,Health,Mass Customer,0,1,1.0,27,30,939 Coleman Pass,4509,QLD,Australia,7
 150,Male,6,1983-08-23,Financial Services,Affluent Customer,0,0,17.0,38,40,69914 Bowman Place,2330,NSW,Australia,7
 151,Male,36,1965-01-31,Manufacturing,Mass Customer,0,1,13.0,57,60,34457 Springview Street,2759,NSW,Australia,9
 152,Female,5,1981-03-03,Financial Services,Mass Customer,0,0,16.0,41,40,992 Old Shore Trail,2069,NSW,Australia,12
-153,Female,73,1977-07-28,Entertainment,Mass Customer,0,1,12.0,44,40,453 Sheridan Street,2747,NSW,Australia,8
+153,Female,73,1977-07-28,Entertainment,Mass Customer,0,1,12.0,45,40,453 Sheridan Street,2747,NSW,Australia,8
 155,Male,4,1985-12-28,Manufacturing,Mass Customer,0,0,10.0,36,40,63344 Holmberg Crossing,2025,NSW,Australia,10
 156,Female,23,1979-09-09,Financial Services,Mass Customer,0,1,11.0,42,40,9 Huxley Circle,3191,VIC,Australia,11
 157,Male,97,1974-11-23,Financial Services,Affluent Customer,0,0,16.0,47,50,0 Hazelcrest Road,3025,VIC,Australia,8
@@ -151,10 +151,10 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 185,Male,80,1979-12-13,Property,Mass Customer,0,1,13.0,42,40,3567 Northfield Lane,2430,NSW,Australia,5
 186,Female,46,1974-05-06,Financial Services,Mass Customer,0,0,3.0,48,50,0059 Brentwood Road,4560,QLD,Australia,7
 188,Female,54,1975-06-22,Property,High Net Worth,0,1,13.0,47,50,4179 Carioca Terrace,2220,NSW,Australia,11
-189,Male,73,1981-07-19,Financial Services,Affluent Customer,0,0,10.0,40,40,59265 Sullivan Junction,3031,VIC,Australia,4
+189,Male,73,1981-07-19,Financial Services,Affluent Customer,0,0,10.0,41,40,59265 Sullivan Junction,3031,VIC,Australia,4
 190,Female,42,1979-02-04,Health,Affluent Customer,0,0,10.0,43,40,7 Warbler Point,2250,NSW,Australia,9
 192,Female,2,1978-11-19,Health,Mass Customer,0,1,8.0,43,40,0 Bay Center,3196,VIC,Australia,6
-193,Male,13,1964-07-22,Manufacturing,Mass Customer,0,1,12.0,57,60,10878 Waywood Way,4352,QLD,Australia,7
+193,Male,13,1964-07-22,Manufacturing,Mass Customer,0,1,12.0,58,60,10878 Waywood Way,4352,QLD,Australia,7
 194,Female,4,1974-11-16,Financial Services,Affluent Customer,0,0,10.0,47,50,362 Mayer Terrace,4680,QLD,Australia,5
 195,Female,34,1958-11-14,Manufacturing,Mass Customer,0,0,6.0,63,60,43 Upham Crossing,3143,VIC,Australia,9
 196,Male,90,1966-02-22,Manufacturing,High Net Worth,0,0,6.0,56,60,0 Superior Drive,2747,NSW,Australia,8
@@ -195,7 +195,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 236,Male,79,1954-10-30,Health,Affluent Customer,0,0,14.0,67,70,6 Morning Park,3666,VIC,Australia,2
 237,Male,18,1974-03-07,Property,High Net Worth,0,1,11.0,48,50,4263 Hanson Place,2021,NSW,Australia,11
 239,Male,62,1992-12-13,Health,Affluent Customer,0,0,3.0,29,30,95 Eliot Street,4514,QLD,Australia,3
-240,Male,49,1989-07-28,IT,High Net Worth,0,1,15.0,32,30,0 Westend Park,2525,NSW,Australia,9
+240,Male,49,1989-07-28,IT,High Net Worth,0,1,15.0,33,30,0 Westend Park,2525,NSW,Australia,9
 241,Male,94,1987-05-09,Entertainment,Mass Customer,0,0,20.0,35,40,39988 Porter Pass,4152,QLD,Australia,7
 242,Male,17,1992-03-20,Property,Affluent Customer,0,0,8.0,30,30,0796 Melody Park,2200,NSW,Australia,9
 243,Female,94,1976-09-02,Manufacturing,High Net Worth,0,1,14.0,45,40,2914 Vahlen Lane,2250,NSW,Australia,8
@@ -214,19 +214,19 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 256,Female,16,1975-05-07,Health,High Net Worth,0,1,21.0,47,50,5130 Manley Court,2287,NSW,Australia,7
 257,Female,70,1966-02-08,Manufacturing,Affluent Customer,0,1,19.0,56,60,879 Coolidge Point,2324,NSW,Australia,5
 258,Female,24,1992-05-03,Manufacturing,High Net Worth,0,0,9.0,30,30,6759 Nevada Point,2323,NSW,Australia,6
-259,Female,70,1983-07-22,Health,High Net Worth,0,1,3.0,38,40,8208 Parkside Point,2320,NSW,Australia,6
+259,Female,70,1983-07-22,Health,High Net Worth,0,1,3.0,39,40,8208 Parkside Point,2320,NSW,Australia,6
 260,Female,47,1979-08-30,Health,High Net Worth,0,1,22.0,42,40,15 Straubel Way,4680,QLD,Australia,2
 262,Male,97,1977-12-23,Health,High Net Worth,0,1,10.0,44,40,42067 Duke Terrace,2031,NSW,Australia,10
 263,Female,89,1985-11-19,Health,High Net Worth,0,0,7.0,36,40,50 Everett Way,2064,NSW,Australia,9
 264,Male,31,1977-12-07,Health,Mass Customer,0,0,11.0,44,40,454 Green Ridge Avenue,2176,NSW,Australia,10
 265,Male,74,1965-10-05,Retail,High Net Worth,0,1,18.0,56,60,19220 Evergreen Crossing,3195,VIC,Australia,9
-266,Female,69,1989-07-19,Retail,Affluent Customer,0,0,18.0,32,30,109 Tomscot Avenue,2010,NSW,Australia,10
+266,Female,69,1989-07-19,Retail,Affluent Customer,0,0,18.0,33,30,109 Tomscot Avenue,2010,NSW,Australia,10
 268,Female,60,1978-10-18,Manufacturing,Mass Customer,0,0,10.0,43,40,92 Lyons Place,2752,NSW,Australia,9
 269,Male,55,1954-09-19,Property,Mass Customer,0,1,9.0,67,70,47 Jana Junction,3802,VIC,Australia,7
 271,Female,51,1991-02-13,Financial Services,Mass Customer,0,0,4.0,31,30,6262 Elgar Avenue,4735,QLD,Australia,2
 272,Female,22,1987-06-06,Retail,Mass Customer,0,1,1.0,35,40,5668 Corscot Circle,2065,NSW,Australia,12
 274,Female,66,1976-09-15,Health,Mass Customer,0,1,14.0,45,40,32062 Oak Terrace,3205,VIC,Australia,8
-275,Male,7,1955-07-27,Health,High Net Worth,0,0,13.0,66,70,07158 Roth Pass,2165,NSW,Australia,4
+275,Male,7,1955-07-27,Health,High Net Worth,0,0,13.0,67,70,07158 Roth Pass,2165,NSW,Australia,4
 276,Female,47,1990-03-25,Financial Services,Mass Customer,0,0,22.0,32,30,370 Portage Parkway,3125,VIC,Australia,8
 279,Female,0,1981-09-09,Manufacturing,Mass Customer,0,0,11.0,40,40,34 Kim Center,2036,NSW,Australia,11
 281,Female,51,1972-12-27,Financial Services,High Net Worth,0,1,8.0,49,50,36 Vidon Parkway,2798,NSW,Australia,6
@@ -270,7 +270,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 324,Male,97,1986-08-05,IT,Mass Customer,0,1,15.0,35,40,84 Lawn Way,2223,NSW,Australia,9
 325,Female,98,1971-09-26,Financial Services,Affluent Customer,0,1,17.0,50,50,0 Coolidge Avenue,4122,QLD,Australia,8
 326,Female,74,1980-02-16,Financial Services,Mass Customer,0,0,6.0,42,40,0 Graceland Plaza,2515,NSW,Australia,10
-327,Female,10,1968-07-24,Health,Mass Customer,0,0,12.0,53,50,8717 Mandrake Place,4214,QLD,Australia,8
+327,Female,10,1968-07-24,Health,Mass Customer,0,0,12.0,54,50,8717 Mandrake Place,4214,QLD,Australia,8
 328,Female,87,1991-04-11,Manufacturing,Mass Customer,0,0,12.0,31,30,2 Thierer Lane,3437,VIC,Australia,8
 329,Male,25,1984-11-20,Entertainment,High Net Worth,0,1,12.0,37,40,19507 Red Cloud Park,3338,VIC,Australia,4
 330,Male,78,1959-06-03,Manufacturing,High Net Worth,0,1,7.0,63,60,3 Golf Course Avenue,2203,NSW,Australia,9
@@ -308,7 +308,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 367,Female,93,1985-02-17,Manufacturing,Mass Customer,0,1,12.0,37,40,279 Jenna Circle,2179,NSW,Australia,12
 368,Female,32,1986-11-26,Financial Services,High Net Worth,0,0,6.0,35,40,382 Maywood Parkway,4127,QLD,Australia,6
 369,Male,19,1991-08-24,Financial Services,Mass Customer,0,1,9.0,30,30,6085 Petterle Circle,3130,VIC,Australia,10
-370,Male,91,1998-07-27,Telecommunications,Affluent Customer,0,1,3.0,23,20,06324 Michigan Trail,4570,QLD,Australia,4
+370,Male,91,1998-07-27,Telecommunications,Affluent Customer,0,1,3.0,24,20,06324 Michigan Trail,4570,QLD,Australia,4
 371,Male,7,1954-07-06,Financial Services,Mass Customer,0,0,7.0,68,70,92808 Mallard Terrace,3215,VIC,Australia,4
 372,Female,19,1987-08-13,Property,Affluent Customer,0,1,4.0,34,30,841 Anderson Drive,3101,VIC,Australia,8
 373,Female,95,2000-08-26,Health,High Net Worth,0,1,1.0,21,20,67884 Fair Oaks Parkway,3931,VIC,Australia,9
@@ -335,7 +335,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 396,Female,98,1967-01-25,Telecommunications,High Net Worth,0,1,16.0,55,60,32 Farragut Avenue,2076,NSW,Australia,11
 397,Female,86,1981-09-02,Financial Services,Affluent Customer,0,1,5.0,40,40,5 Florence Hill,4124,QLD,Australia,7
 398,Female,20,1969-01-18,Retail,Affluent Customer,0,0,11.0,53,50,095 Prairieview Circle,3191,VIC,Australia,12
-399,Male,26,1976-07-18,Manufacturing,Affluent Customer,0,1,16.0,45,40,47226 Algoma Place,4305,QLD,Australia,3
+399,Male,26,1976-07-18,Manufacturing,Affluent Customer,0,1,16.0,46,50,47226 Algoma Place,4305,QLD,Australia,3
 400,Female,86,1962-05-19,Financial Services,Mass Customer,0,0,5.0,60,60,564 Northview Junction,3195,VIC,Australia,11
 401,Female,56,1986-12-11,Retail,Mass Customer,0,0,15.0,35,40,5359 Alpine Hill,2579,NSW,Australia,5
 402,Male,9,1977-06-03,Retail,Affluent Customer,0,0,22.0,45,40,586 Miller Parkway,2835,NSW,Australia,1
@@ -358,7 +358,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 426,Female,10,1972-06-02,Manufacturing,Affluent Customer,0,0,8.0,50,50,15082 Crest Line Plaza,3040,VIC,Australia,8
 427,Male,77,1996-12-19,Entertainment,Mass Customer,0,1,2.0,25,20,1 Carey Pass,2065,NSW,Australia,11
 428,Female,0,1977-05-03,Health,High Net Worth,0,1,14.0,45,40,8 Moland Pass,2065,NSW,Australia,10
-429,Female,7,1978-07-30,IT,High Net Worth,0,1,21.0,43,40,25386 Fallview Place,2340,NSW,Australia,3
+429,Female,7,1978-07-30,IT,High Net Worth,0,1,21.0,44,40,25386 Fallview Place,2340,NSW,Australia,3
 430,Female,46,1973-04-26,Financial Services,High Net Worth,0,1,11.0,49,50,8078 Talisman Trail,4209,QLD,Australia,7
 431,Male,8,1956-03-26,Health,Affluent Customer,0,1,18.0,66,70,6920 Dwight Circle,4173,QLD,Australia,7
 432,Male,83,1990-02-12,Manufacturing,Affluent Customer,0,1,10.0,32,30,9 Lukken Parkway,2065,NSW,Australia,10
@@ -423,7 +423,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 499,Male,39,1961-03-15,Financial Services,Affluent Customer,0,0,19.0,61,60,02 Boyd Crossing,3143,VIC,Australia,7
 500,Male,19,1992-04-11,Retail,Affluent Customer,0,1,10.0,30,30,2639 Brown Road,3910,VIC,Australia,7
 502,Female,39,1970-12-24,Manufacturing,Mass Customer,0,0,18.0,51,50,353 Stuart Trail,4702,QLD,Australia,3
-503,Male,87,1989-07-19,Health,Affluent Customer,0,1,10.0,32,30,9 Rowland Road,2133,NSW,Australia,10
+503,Male,87,1989-07-19,Health,Affluent Customer,0,1,10.0,33,30,9 Rowland Road,2133,NSW,Australia,10
 504,Male,93,1995-04-25,Manufacturing,High Net Worth,0,1,7.0,27,30,830 Summit Center,3075,VIC,Australia,7
 506,Female,43,1985-02-14,Retail,Mass Customer,0,0,21.0,37,40,808 Debra Center,3911,VIC,Australia,10
 507,Female,98,1971-07-05,Health,Mass Customer,0,0,7.0,51,50,8739 Service Park,2250,NSW,Australia,8
@@ -443,7 +443,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 525,Male,64,1980-02-12,Manufacturing,Mass Customer,0,1,9.0,42,40,81848 Amoth Road,3282,VIC,Australia,2
 527,Female,81,1990-10-19,Financial Services,Mass Customer,0,1,9.0,31,30,1 Cordelia Alley,2261,NSW,Australia,8
 528,Female,10,1979-06-06,Health,Mass Customer,0,0,4.0,43,40,80 Lakewood Street,2576,NSW,Australia,10
-529,Male,18,1989-07-21,Retail,Affluent Customer,0,1,10.0,32,30,66834 Melby Way,2160,NSW,Australia,9
+529,Male,18,1989-07-21,Retail,Affluent Customer,0,1,10.0,33,30,66834 Melby Way,2160,NSW,Australia,9
 530,Male,2,1974-09-24,Manufacturing,Mass Customer,0,0,15.0,47,50,35796 Buhler Plaza,3108,VIC,Australia,10
 531,Female,94,1993-08-26,Financial Services,High Net Worth,0,0,1.0,28,30,306 Longview Street,2145,NSW,Australia,7
 532,Female,25,1961-01-14,Financial Services,Affluent Customer,0,0,19.0,61,60,39632 Michigan Park,4165,QLD,Australia,5
@@ -540,7 +540,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 642,Male,9,1972-12-19,Property,Mass Customer,0,0,12.0,49,50,831 Hayes Park,4218,QLD,Australia,8
 643,Female,48,1982-12-29,Entertainment,Mass Customer,0,1,10.0,39,40,491 Merry Crossing,3011,VIC,Australia,4
 644,Male,59,1999-12-22,Health,Affluent Customer,0,0,2.0,22,20,598 Randy Way,2380,NSW,Australia,1
-646,Female,3,1973-07-22,Manufacturing,Affluent Customer,0,0,13.0,48,50,3 Erie Hill,3564,VIC,Australia,2
+646,Female,3,1973-07-22,Manufacturing,Affluent Customer,0,0,13.0,49,50,3 Erie Hill,3564,VIC,Australia,2
 647,Male,61,1957-01-23,Retail,Mass Customer,0,1,10.0,65,60,678 Old Gate Pass,3171,VIC,Australia,9
 648,Male,86,1978-06-04,Financial Services,Mass Customer,0,1,9.0,44,40,9 Mayfield Road,4551,QLD,Australia,7
 649,Female,23,1974-12-07,Financial Services,Mass Customer,0,1,10.0,47,50,41759 Crowley Circle,2560,NSW,Australia,8
@@ -554,20 +554,20 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 657,Male,66,1993-02-18,Manufacturing,Affluent Customer,0,0,10.0,29,30,9912 Eagle Crest Lane,4800,QLD,Australia,7
 658,Male,38,1944-01-24,Manufacturing,Affluent Customer,0,1,8.0,78,80,355 Thackeray Circle,3025,VIC,Australia,9
 659,Female,44,1979-10-09,Financial Services,Affluent Customer,0,1,15.0,42,40,56 Anniversary Avenue,2121,NSW,Australia,12
-660,Female,82,1995-07-29,Manufacturing,High Net Worth,0,0,6.0,26,30,14 Autumn Leaf Avenue,2570,NSW,Australia,10
+660,Female,82,1995-07-29,Manufacturing,High Net Worth,0,0,6.0,27,30,14 Autumn Leaf Avenue,2570,NSW,Australia,10
 661,Female,35,1988-05-07,IT,High Net Worth,0,0,14.0,34,30,30274 Graedel Way,2577,NSW,Australia,7
 662,Female,41,1967-07-04,Manufacturing,Mass Customer,0,1,5.0,55,60,74013 Mesta Terrace,3084,VIC,Australia,9
-663,Male,27,1997-07-17,Property,Affluent Customer,0,1,3.0,24,20,15 Lindbergh Center,2199,NSW,Australia,9
+663,Male,27,1997-07-17,Property,Affluent Customer,0,1,3.0,25,20,15 Lindbergh Center,2199,NSW,Australia,9
 664,Male,38,1994-10-05,Health,High Net Worth,0,0,4.0,27,30,3 Corscot Hill,4870,QLD,Australia,5
 666,Female,82,1983-11-01,Health,High Net Worth,0,1,15.0,38,40,25 Mesta Plaza,3975,VIC,Australia,8
 667,Female,62,1994-03-19,Manufacturing,High Net Worth,0,1,3.0,28,30,1349 Namekagon Crossing,2134,NSW,Australia,12
 668,Female,61,1966-08-26,Health,Mass Customer,0,0,7.0,55,60,186 Shasta Avenue,2066,NSW,Australia,9
 670,Female,75,1992-11-09,Retail,Affluent Customer,0,0,8.0,29,30,756 Farragut Place,4740,QLD,Australia,2
-671,Male,49,1984-07-25,Argiculture,Mass Customer,0,0,5.0,37,40,197 Mifflin Hill,2260,NSW,Australia,10
+671,Male,49,1984-07-25,Argiculture,Mass Customer,0,0,5.0,38,40,197 Mifflin Hill,2260,NSW,Australia,10
 672,Male,53,1977-01-12,Retail,High Net Worth,0,0,12.0,45,40,618 Independence Pass,2800,NSW,Australia,1
 673,Male,35,1975-06-27,Health,Mass Customer,0,1,4.0,47,50,2836 Morning Drive,2304,NSW,Australia,7
 675,Female,37,1976-12-19,Financial Services,Mass Customer,0,1,17.0,45,40,99 Cascade Crossing,2048,NSW,Australia,12
-677,Male,59,1997-07-28,Financial Services,Mass Customer,0,0,5.0,24,20,5 Lyons Alley,2216,NSW,Australia,10
+677,Male,59,1997-07-28,Financial Services,Mass Customer,0,0,5.0,25,20,5 Lyons Alley,2216,NSW,Australia,10
 678,Female,57,1995-08-31,IT,High Net Worth,0,0,2.0,26,30,96910 Sugar Point,4352,QLD,Australia,7
 679,Female,29,1974-10-21,Health,Mass Customer,0,0,12.0,47,50,558 Maple Court,2557,NSW,Australia,9
 681,Female,55,1978-09-18,Manufacturing,Mass Customer,0,1,17.0,43,40,76 Hanson Junction,2147,NSW,Australia,9
@@ -584,7 +584,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 694,Female,66,1968-12-28,Health,Mass Customer,0,0,13.0,53,50,1 Moose Avenue,2017,NSW,Australia,8
 695,Male,36,1977-11-30,Health,High Net Worth,0,0,11.0,44,40,02 Bartelt Center,2745,NSW,Australia,8
 697,Male,25,1986-11-29,Entertainment,Mass Customer,0,0,10.0,35,40,16420 Veith Crossing,4214,QLD,Australia,7
-698,Female,90,1996-07-20,Manufacturing,High Net Worth,0,1,1.0,25,20,81310 Charing Cross Plaza,3805,VIC,Australia,7
+698,Female,90,1996-07-20,Manufacturing,High Net Worth,0,1,1.0,26,30,81310 Charing Cross Plaza,3805,VIC,Australia,7
 699,Female,16,1972-08-04,IT,Affluent Customer,0,1,16.0,49,50,37430 Merrick Center,2770,NSW,Australia,6
 700,Male,67,1990-02-20,Financial Services,Mass Customer,0,0,4.0,32,30,6046 Sheridan Way,2322,NSW,Australia,3
 701,Male,18,1956-05-01,Health,Mass Customer,0,1,8.0,66,70,537 Packers Street,4562,QLD,Australia,5
@@ -627,7 +627,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 751,Female,41,2001-10-31,Financial Services,Affluent Customer,0,0,1.0,20,20,5 Dahle Trail,2117,NSW,Australia,10
 752,Male,13,1961-06-27,Financial Services,High Net Worth,0,0,12.0,61,60,62215 Delaware Plaza,4118,QLD,Australia,3
 753,Female,82,1970-03-07,Health,Affluent Customer,1,1,6.0,52,50,37 Dorton Street,2594,NSW,Australia,3
-754,Female,15,1979-07-28,Financial Services,Mass Customer,0,0,14.0,42,40,00 Evergreen Center,3850,VIC,Australia,4
+754,Female,15,1979-07-28,Financial Services,Mass Customer,0,0,14.0,43,40,00 Evergreen Center,3850,VIC,Australia,4
 755,Male,31,1993-07-13,Financial Services,Mass Customer,0,0,4.0,29,30,80 Maple Avenue,2536,NSW,Australia,4
 756,Female,65,1974-09-25,Manufacturing,Mass Customer,0,1,16.0,47,50,43 Jana Way,3750,VIC,Australia,7
 757,Male,91,1977-05-13,Financial Services,Mass Customer,0,0,18.0,45,40,195 Knutson Place,4019,QLD,Australia,8
@@ -653,7 +653,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 780,Female,24,1973-10-12,Financial Services,Mass Customer,0,0,20.0,48,50,70 Old Gate Street,2354,NSW,Australia,3
 781,Male,80,1958-11-15,Manufacturing,Mass Customer,0,0,17.0,63,60,3 Magdeline Terrace,2190,NSW,Australia,10
 782,Female,30,1976-08-29,Manufacturing,Mass Customer,0,0,17.0,45,40,36744 Birchwood Center,4019,QLD,Australia,3
-783,Male,6,1985-07-25,Retail,Affluent Customer,0,0,14.0,36,40,68 Chinook Street,4814,QLD,Australia,2
+783,Male,6,1985-07-25,Retail,Affluent Customer,0,0,14.0,37,40,68 Chinook Street,4814,QLD,Australia,2
 784,Male,10,1977-01-24,IT,High Net Worth,0,1,22.0,45,40,0 Valley Edge Plaza,3201,VIC,Australia,6
 785,Female,48,1979-08-26,Manufacturing,Mass Customer,0,1,18.0,42,40,8 Starling Trail,2282,NSW,Australia,8
 786,Male,34,1985-02-14,Financial Services,Affluent Customer,0,0,16.0,37,40,3 Crest Line Plaza,2223,NSW,Australia,10
@@ -671,7 +671,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 802,Female,50,1986-02-20,Financial Services,Mass Customer,0,0,3.0,36,40,845 Talisman Pass,4210,QLD,Australia,7
 803,Female,96,1999-11-11,Manufacturing,High Net Worth,0,0,3.0,22,20,1899 Manley Court,4551,QLD,Australia,7
 805,Female,48,1960-04-19,Manufacturing,Mass Customer,0,0,10.0,62,60,80932 5th Street,2754,NSW,Australia,8
-806,Male,66,1992-07-28,Retail,Mass Customer,0,1,7.0,29,30,018 Erie Point,2767,NSW,Australia,9
+806,Male,66,1992-07-28,Retail,Mass Customer,0,1,7.0,30,30,018 Erie Point,2767,NSW,Australia,9
 808,Male,21,1979-11-21,Health,High Net Worth,0,1,17.0,42,40,246 Norway Maple Trail,3810,VIC,Australia,2
 809,Female,83,1977-10-23,Health,Mass Customer,0,0,18.0,44,40,2 Autumn Leaf Plaza,2137,NSW,Australia,8
 810,Female,24,1998-04-04,Health,Mass Customer,0,1,1.0,24,20,808 Starling Place,2173,NSW,Australia,9
@@ -684,7 +684,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 818,Female,17,1973-12-21,Manufacturing,Mass Customer,0,0,11.0,48,50,65 Sachtjen Park,2067,NSW,Australia,11
 819,Male,7,1975-07-17,Manufacturing,Affluent Customer,0,1,5.0,47,50,84 Loomis Pass,2000,NSW,Australia,12
 820,Female,12,1977-01-06,Financial Services,High Net Worth,0,0,16.0,45,40,58047 Westport Road,2040,NSW,Australia,12
-821,Male,41,1981-07-24,Financial Services,Mass Customer,0,1,7.0,40,40,59000 American Center,2530,NSW,Australia,8
+821,Male,41,1981-07-24,Financial Services,Mass Customer,0,1,7.0,41,40,59000 American Center,2530,NSW,Australia,8
 822,Female,67,1974-10-23,Health,High Net Worth,0,0,17.0,47,50,659 Scofield Street,3175,VIC,Australia,5
 823,Female,91,1990-02-17,Manufacturing,Affluent Customer,0,0,9.0,32,30,388 Weeping Birch Plaza,2156,NSW,Australia,11
 824,Female,97,1977-02-27,Financial Services,Affluent Customer,0,1,12.0,45,40,09413 Holmberg Terrace,4127,QLD,Australia,3
@@ -721,7 +721,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 863,Female,19,1961-09-10,Financial Services,Affluent Customer,0,0,5.0,60,60,938 Nova Junction,3623,VIC,Australia,1
 864,Male,6,1970-03-06,Retail,High Net Worth,0,1,4.0,52,50,48 Bobwhite Crossing,4122,QLD,Australia,8
 865,Female,73,1965-04-12,Telecommunications,Mass Customer,0,0,19.0,57,60,7391 Ruskin Parkway,4356,QLD,Australia,5
-868,Female,84,1979-07-18,Financial Services,Mass Customer,0,1,11.0,42,40,519 Maywood Pass,2768,NSW,Australia,10
+868,Female,84,1979-07-18,Financial Services,Mass Customer,0,1,11.0,43,40,519 Maywood Pass,2768,NSW,Australia,10
 869,Female,7,1984-03-11,Financial Services,High Net Worth,0,1,10.0,38,40,6712 Nova Crossing,2065,NSW,Australia,10
 870,Male,63,1964-01-29,Health,Mass Customer,0,0,6.0,58,60,383 Rockefeller Junction,2753,NSW,Australia,9
 872,Female,47,1971-04-28,IT,Mass Customer,0,0,13.0,51,50,5 Hauk Lane,2650,NSW,Australia,3
@@ -747,7 +747,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 899,Female,42,1963-08-05,Health,Affluent Customer,0,1,12.0,58,60,88 Comanche Point,2486,NSW,Australia,7
 900,Male,48,1990-08-07,Manufacturing,Mass Customer,0,1,5.0,31,30,13845 Hayes Center,3228,VIC,Australia,8
 901,Female,13,1975-04-27,Retail,Mass Customer,0,1,16.0,47,50,88022 South Road,4511,QLD,Australia,5
-902,Female,37,1989-07-26,Retail,Mass Customer,0,0,18.0,32,30,9 Northridge Lane,2340,NSW,Australia,3
+902,Female,37,1989-07-26,Retail,Mass Customer,0,0,18.0,33,30,9 Northridge Lane,2340,NSW,Australia,3
 903,Male,46,1961-07-03,Financial Services,Mass Customer,0,0,14.0,61,60,95530 Hallows Circle,4110,QLD,Australia,5
 905,Female,41,1978-02-11,Manufacturing,Affluent Customer,0,0,12.0,44,40,237 Summit Pass,4506,QLD,Australia,3
 906,Male,73,1998-12-30,Financial Services,High Net Worth,0,1,3.0,23,20,1 Cottonwood Street,3150,VIC,Australia,9
@@ -755,7 +755,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 908,Female,86,1980-08-28,Financial Services,Affluent Customer,0,1,17.0,41,40,352 Bonner Crossing,3084,VIC,Australia,8
 910,Male,50,1986-04-26,Financial Services,Mass Customer,0,0,14.0,36,40,60086 Summit Lane,2116,NSW,Australia,10
 911,Male,62,1974-10-13,Property,Affluent Customer,0,0,3.0,47,50,5 Farmco Way,2747,NSW,Australia,8
-912,Male,37,1968-07-19,Retail,Mass Customer,0,1,19.0,53,50,33 Kropf Hill,2211,NSW,Australia,10
+912,Male,37,1968-07-19,Retail,Mass Customer,0,1,19.0,54,50,33 Kropf Hill,2211,NSW,Australia,10
 913,Female,67,2000-10-28,Financial Services,Mass Customer,0,0,1.0,21,20,2 Derek Pass,2222,NSW,Australia,7
 914,Male,73,1999-06-16,Manufacturing,Affluent Customer,0,1,2.0,23,20,87140 Mandrake Lane,3124,VIC,Australia,8
 915,Female,17,1984-09-07,Entertainment,Mass Customer,0,0,7.0,37,40,69278 High Crossing Place,2795,NSW,Australia,5
@@ -783,7 +783,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 942,Female,31,1974-02-07,Financial Services,Mass Customer,0,1,14.0,48,50,5413 Burning Wood Plaza,4220,QLD,Australia,8
 943,Male,94,1979-09-17,Property,Affluent Customer,0,1,15.0,42,40,6183 Morrow Court,2113,NSW,Australia,11
 944,Female,53,1976-01-12,Manufacturing,Mass Customer,0,0,15.0,46,50,9 Colorado Trail,3799,VIC,Australia,3
-946,Female,16,1961-07-17,Manufacturing,High Net Worth,0,0,12.0,60,60,93446 Eagle Crest Plaza,2229,NSW,Australia,10
+946,Female,16,1961-07-17,Manufacturing,High Net Worth,0,0,12.0,61,60,93446 Eagle Crest Plaza,2229,NSW,Australia,10
 947,Female,43,1986-03-10,Health,Mass Customer,0,0,10.0,36,40,9 Clyde Gallagher Plaza,3021,VIC,Australia,7
 949,Male,18,1975-09-07,Health,Mass Customer,0,1,3.0,46,50,221 Coolidge Parkway,2010,NSW,Australia,9
 951,Male,44,1999-09-29,Entertainment,Mass Customer,0,0,1.0,22,20,7 Starling Crossing,2570,NSW,Australia,9
@@ -803,7 +803,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 969,Female,20,1978-09-19,Health,High Net Worth,0,1,18.0,43,40,29419 Harper Circle,4209,QLD,Australia,5
 970,Female,2,1980-06-26,Financial Services,High Net Worth,0,1,14.0,42,40,1601 Judy Drive,2026,NSW,Australia,10
 971,Male,11,1988-10-25,Manufacturing,High Net Worth,0,0,22.0,33,30,7628 Larry Trail,3428,VIC,Australia,7
-972,Female,81,1981-07-23,Retail,Mass Customer,0,1,10.0,40,40,004 Lawn Trail,4227,QLD,Australia,5
+972,Female,81,1981-07-23,Retail,Mass Customer,0,1,10.0,41,40,004 Lawn Trail,4227,QLD,Australia,5
 973,Female,46,1979-08-02,Health,High Net Worth,0,0,15.0,42,40,42 Dahle Parkway,3806,VIC,Australia,7
 976,Male,10,1971-10-21,Financial Services,Affluent Customer,0,0,10.0,50,50,55 Fairfield Court,3175,VIC,Australia,8
 979,Female,42,1959-12-25,Manufacturing,High Net Worth,0,0,12.0,62,60,938 Monica Park,3173,VIC,Australia,9
@@ -833,7 +833,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1007,Male,58,1996-06-08,Retail,Mass Customer,0,0,5.0,26,30,2 Vermont Avenue,2066,NSW,Australia,12
 1009,Female,16,1957-05-09,Manufacturing,High Net Worth,0,1,13.0,65,60,05 Loftsgordon Pass,4380,QLD,Australia,9
 1010,Male,24,1963-01-26,Financial Services,Affluent Customer,0,0,17.0,59,60,570 Butternut Pass,2340,NSW,Australia,4
-1011,Female,42,1985-07-19,Health,High Net Worth,0,1,10.0,36,40,63 Grayhawk Pass,2769,NSW,Australia,9
+1011,Female,42,1985-07-19,Health,High Net Worth,0,1,10.0,37,40,63 Grayhawk Pass,2769,NSW,Australia,9
 1013,Female,53,1976-09-06,Retail,High Net Worth,0,0,17.0,45,40,495 Elmside Drive,2179,NSW,Australia,8
 1014,Male,60,1960-10-14,Property,Mass Customer,0,1,8.0,61,60,9 Macpherson Avenue,2527,NSW,Australia,8
 1015,Male,7,1955-04-01,Health,Mass Customer,0,0,17.0,67,70,738 Division Street,3024,VIC,Australia,8
@@ -844,10 +844,10 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1020,Female,29,1975-11-10,IT,Affluent Customer,0,0,13.0,46,50,16395 Nevada Lane,2145,NSW,Australia,10
 1021,Male,16,1977-10-02,Retail,High Net Worth,0,0,7.0,44,40,0996 Cody Terrace,2761,NSW,Australia,8
 1022,Female,56,1990-03-04,Financial Services,Affluent Customer,0,1,14.0,32,30,80424 Corben Alley,2136,NSW,Australia,10
-1023,Female,16,1991-07-23,Financial Services,Affluent Customer,0,1,6.0,30,30,37208 Golf View Terrace,2145,NSW,Australia,8
+1023,Female,16,1991-07-23,Financial Services,Affluent Customer,0,1,6.0,31,30,37208 Golf View Terrace,2145,NSW,Australia,8
 1024,Female,17,1992-06-05,Health,High Net Worth,0,1,2.0,30,30,1128 Golden Leaf Center,3124,VIC,Australia,9
 1025,Male,69,1997-07-30,IT,Mass Customer,0,1,5.0,24,20,4885 Stone Corner Alley,3046,VIC,Australia,8
-1026,Male,66,1994-07-29,Financial Services,Affluent Customer,0,0,4.0,27,30,66 Hudson Crossing,2153,NSW,Australia,10
+1026,Male,66,1994-07-29,Financial Services,Affluent Customer,0,0,4.0,28,30,66 Hudson Crossing,2153,NSW,Australia,10
 1027,Male,33,1966-10-07,Financial Services,Affluent Customer,0,0,18.0,55,60,5287 Wayridge Alley,2069,NSW,Australia,12
 1030,Female,9,1962-05-05,Health,Mass Customer,0,0,5.0,60,60,4870 Shelley Alley,3225,VIC,Australia,7
 1031,Male,75,1983-09-15,Manufacturing,Mass Customer,0,0,6.0,38,40,65634 Del Mar Crossing,4053,QLD,Australia,7
@@ -861,7 +861,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1045,Female,88,1986-05-08,Financial Services,Mass Customer,0,1,19.0,36,40,201 Pepper Wood Avenue,2154,NSW,Australia,11
 1047,Male,39,1978-09-03,Financial Services,Affluent Customer,0,0,11.0,43,40,6 Pawling Trail,2871,NSW,Australia,7
 1049,Male,35,1996-03-02,Property,Mass Customer,0,0,2.0,26,30,79 Lighthouse Bay Lane,3082,VIC,Australia,8
-1050,Female,7,1973-07-29,Telecommunications,Mass Customer,0,1,15.0,48,50,2354 Forster Road,2131,NSW,Australia,11
+1050,Female,7,1973-07-29,Telecommunications,Mass Customer,0,1,15.0,49,50,2354 Forster Road,2131,NSW,Australia,11
 1051,Female,34,1977-09-29,Property,High Net Worth,0,1,14.0,44,40,5271 Vernon Court,3207,VIC,Australia,10
 1052,Female,31,1986-02-02,Financial Services,High Net Worth,0,0,3.0,36,40,06 Declaration Hill,3184,VIC,Australia,11
 1053,Male,98,1962-05-20,Manufacturing,Mass Customer,0,1,8.0,60,60,07716 5th Alley,2250,NSW,Australia,5
@@ -882,7 +882,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1069,Male,85,1976-04-15,Telecommunications,Mass Customer,0,0,15.0,46,50,6 Sycamore Drive,4053,QLD,Australia,7
 1071,Male,68,1986-12-29,Retail,High Net Worth,0,0,1.0,35,40,37495 Summerview Park,2619,NSW,Australia,7
 1072,Male,60,1957-06-01,Financial Services,High Net Worth,0,1,8.0,65,60,3 Center Crossing,2452,NSW,Australia,3
-1075,Male,26,1967-07-25,Manufacturing,High Net Worth,0,0,7.0,54,50,69881 Westport Parkway,2880,NSW,Australia,1
+1075,Male,26,1967-07-25,Manufacturing,High Net Worth,0,0,7.0,55,60,69881 Westport Parkway,2880,NSW,Australia,1
 1076,Male,33,2000-06-06,Health,Affluent Customer,0,0,2.0,22,20,44 Ramsey Road,2515,NSW,Australia,9
 1077,Female,8,1955-10-11,Telecommunications,Mass Customer,0,1,18.0,66,70,12764 Raven Plaza,4020,QLD,Australia,7
 1078,Male,69,1976-06-05,Manufacturing,Mass Customer,0,0,20.0,46,50,356 Petterle Way,2193,NSW,Australia,9
@@ -989,7 +989,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1207,Female,30,1997-09-25,Health,Mass Customer,0,0,1.0,24,20,22619 Schurz Street,2321,NSW,Australia,4
 1208,Female,23,1983-12-26,Financial Services,Mass Customer,0,0,15.0,38,40,61 Kim Avenue,2079,NSW,Australia,10
 1209,Male,40,1977-09-06,Property,High Net Worth,0,1,11.0,44,40,12103 Merchant Circle,3072,VIC,Australia,9
-1211,Male,45,1978-07-23,Financial Services,Affluent Customer,0,1,14.0,43,40,7 Luster Trail,2007,NSW,Australia,8
+1211,Male,45,1978-07-23,Financial Services,Affluent Customer,0,1,14.0,44,40,7 Luster Trail,2007,NSW,Australia,8
 1212,Female,28,1968-10-24,Property,Affluent Customer,0,0,13.0,53,50,7 Dahle Avenue,2620,NSW,Australia,9
 1214,Male,0,1989-05-01,Property,High Net Worth,0,0,15.0,33,30,275 Lindbergh Parkway,2086,NSW,Australia,11
 1215,Female,79,1967-02-26,Manufacturing,Mass Customer,0,0,11.0,55,60,592 Tennessee Alley,2231,NSW,Australia,10
@@ -1005,8 +1005,8 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1227,Female,63,1989-09-30,IT,Affluent Customer,0,1,12.0,32,30,01 Cottonwood Junction,2285,NSW,Australia,7
 1228,Female,43,1962-04-27,Financial Services,Affluent Customer,0,0,6.0,60,60,37 Sutherland Terrace,2830,NSW,Australia,4
 1229,Male,38,2000-01-08,Manufacturing,Affluent Customer,0,1,1.0,22,20,7929 Grasskamp Trail,2119,NSW,Australia,11
-1230,Male,61,1985-07-24,Financial Services,Mass Customer,0,1,10.0,36,40,4 Hoard Pass,2153,NSW,Australia,9
-1231,Female,94,1973-07-28,Health,Affluent Customer,0,0,18.0,48,50,2 Dunning Alley,2120,NSW,Australia,10
+1230,Male,61,1985-07-24,Financial Services,Mass Customer,0,1,10.0,37,40,4 Hoard Pass,2153,NSW,Australia,9
+1231,Female,94,1973-07-28,Health,Affluent Customer,0,0,18.0,49,50,2 Dunning Alley,2120,NSW,Australia,10
 1232,Male,83,1959-09-12,Property,Affluent Customer,0,0,20.0,62,60,61949 7th Road,4573,QLD,Australia,8
 1233,Female,17,1978-07-07,Retail,Affluent Customer,0,1,16.0,44,40,26 Lotheville Court,2085,NSW,Australia,11
 1235,Female,24,1969-02-28,Health,Mass Customer,0,0,9.0,53,50,67348 Lakewood Gardens Road,2852,NSW,Australia,2
@@ -1033,7 +1033,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1261,Female,61,1971-02-16,Manufacturing,Mass Customer,0,0,4.0,51,50,16623 Mariners Cove Plaza,4127,QLD,Australia,2
 1263,Male,41,1973-06-16,Manufacturing,Affluent Customer,0,0,8.0,49,50,12 Prentice Point,4670,QLD,Australia,1
 1264,Male,48,1994-02-28,Health,Mass Customer,0,1,7.0,28,30,7008 Warner Park,4670,QLD,Australia,2
-1265,Male,72,1987-07-22,Property,Mass Customer,0,1,2.0,34,30,51673 Heffernan Park,4655,QLD,Australia,3
+1265,Male,72,1987-07-22,Property,Mass Customer,0,1,2.0,35,40,51673 Heffernan Park,4655,QLD,Australia,3
 1266,Male,68,1978-05-02,Health,Mass Customer,0,1,10.0,44,40,32 Meadow Ridge Alley,4610,QLD,Australia,1
 1267,Male,39,1979-06-03,Entertainment,Affluent Customer,0,1,19.0,43,40,37 Clarendon Lane,4655,QLD,Australia,3
 1268,Male,20,1989-12-06,Financial Services,High Net Worth,0,1,2.0,32,30,7 Onsgard Court,4551,QLD,Australia,9
@@ -1080,7 +1080,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1316,Male,79,1990-03-06,Retail,High Net Worth,0,1,18.0,32,30,482 Bartelt Junction,4280,QLD,Australia,7
 1317,Male,2,1973-01-18,Retail,Mass Customer,0,1,5.0,49,50,58563 Monterey Hill,4300,QLD,Australia,2
 1318,Female,10,1966-08-17,Financial Services,Mass Customer,0,1,4.0,55,60,889 Straubel Way,4055,QLD,Australia,6
-1319,Male,20,1955-07-18,Entertainment,Mass Customer,0,1,12.0,66,70,9 Dawn Court,4128,QLD,Australia,2
+1319,Male,20,1955-07-18,Entertainment,Mass Customer,0,1,12.0,67,70,9 Dawn Court,4128,QLD,Australia,2
 1320,Female,4,1983-10-29,Manufacturing,High Net Worth,0,1,7.0,38,40,1988 Bartillon Terrace,4500,QLD,Australia,3
 1321,Female,29,1994-07-05,Argiculture,Affluent Customer,0,0,8.0,28,30,57384 Sycamore Park,4370,QLD,Australia,6
 1322,Female,37,2001-10-16,Financial Services,Mass Customer,0,1,1.0,20,20,276 Hoffman Road,4017,QLD,Australia,8
@@ -1177,7 +1177,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1427,Male,14,1993-12-09,Financial Services,High Net Worth,0,0,8.0,28,30,22 Transport Alley,2761,NSW,Australia,9
 1428,Female,93,1998-11-15,Retail,High Net Worth,0,0,1.0,23,20,1231 Grim Road,2760,NSW,Australia,8
 1429,Male,94,1980-12-03,Health,Mass Customer,0,1,12.0,41,40,3 Rigney Center,2794,NSW,Australia,2
-1430,Female,86,1999-07-24,Manufacturing,Mass Customer,0,1,3.0,22,20,7847 Buell Trail,2759,NSW,Australia,8
+1430,Female,86,1999-07-24,Manufacturing,Mass Customer,0,1,3.0,23,20,7847 Buell Trail,2759,NSW,Australia,8
 1431,Male,29,1975-05-13,Financial Services,Affluent Customer,0,1,17.0,47,50,42946 Fieldstone Pass,2750,NSW,Australia,9
 1432,Male,70,1998-11-26,Argiculture,High Net Worth,0,1,2.0,23,20,1617 Beilfuss Street,2759,NSW,Australia,8
 1433,Female,15,1958-09-25,IT,Mass Customer,0,0,20.0,63,60,64 Everett Circle,2756,NSW,Australia,8
@@ -1185,11 +1185,11 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1435,Male,96,1968-04-27,Telecommunications,Affluent Customer,0,1,19.0,54,50,8934 Park Meadow Street,2756,NSW,Australia,8
 1437,Male,35,1974-09-12,Manufacturing,Affluent Customer,0,0,20.0,47,50,26607 West Hill,2777,NSW,Australia,9
 1438,Female,27,1975-11-01,Health,Mass Customer,0,1,14.0,46,50,53649 Mandrake Place,2749,NSW,Australia,8
-1439,Male,97,1965-07-28,Retail,Mass Customer,0,0,19.0,56,60,223 Trailsway Parkway,2154,NSW,Australia,10
+1439,Male,97,1965-07-28,Retail,Mass Customer,0,0,19.0,57,60,223 Trailsway Parkway,2154,NSW,Australia,10
 1440,Female,19,1965-11-22,Financial Services,High Net Worth,0,1,12.0,56,60,8999 Elmside Pass,2749,NSW,Australia,9
 1441,Female,23,1977-03-07,Manufacturing,Affluent Customer,0,0,5.0,45,40,53 Steensland Parkway,2773,NSW,Australia,10
 1442,Male,1,1963-03-07,Manufacturing,Affluent Customer,0,0,17.0,59,60,8 Prairie Rose Circle,2745,NSW,Australia,9
-1443,Female,47,1986-07-25,Financial Services,Affluent Customer,0,1,22.0,35,40,3416 Texas Pass,2747,NSW,Australia,7
+1443,Female,47,1986-07-25,Financial Services,Affluent Customer,0,1,22.0,36,40,3416 Texas Pass,2747,NSW,Australia,7
 1444,Male,97,1975-04-14,Health,Mass Customer,0,0,8.0,47,50,8088 Macpherson Hill,2323,NSW,Australia,5
 1445,Female,57,1973-03-29,IT,Affluent Customer,0,0,18.0,49,50,6418 Jenna Trail,2640,NSW,Australia,4
 1446,Male,51,1987-04-15,Manufacturing,Mass Customer,0,0,17.0,35,40,70262 Hermina Court,3690,VIC,Australia,2
@@ -1200,7 +1200,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1452,Male,99,1955-12-31,Retail,Mass Customer,0,0,20.0,66,70,913 Londonderry Trail,2567,NSW,Australia,8
 1453,Male,54,1977-07-30,Health,High Net Worth,0,0,13.0,44,40,58516 Tony Plaza,2567,NSW,Australia,8
 1454,Male,4,1979-04-07,Argiculture,Mass Customer,0,1,3.0,43,40,583 Jenna Pass,2567,NSW,Australia,9
-1455,Female,2,1992-07-26,Property,Affluent Customer,0,0,8.0,29,30,77729 Kim Plaza,2560,NSW,Australia,7
+1455,Female,2,1992-07-26,Property,Affluent Customer,0,0,8.0,30,30,77729 Kim Plaza,2560,NSW,Australia,7
 1456,Male,97,1964-12-11,Property,Mass Customer,0,1,6.0,57,60,1253 Ridge Oak Center,2560,NSW,Australia,4
 1458,Male,40,1956-10-22,Telecommunications,Affluent Customer,0,0,11.0,65,60,6279 Lien Junction,2560,NSW,Australia,6
 1459,Male,89,1998-06-16,Manufacturing,Mass Customer,0,0,4.0,24,20,1435 Lukken Trail,2570,NSW,Australia,8
@@ -1217,7 +1217,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1471,Female,88,1978-02-24,Financial Services,Mass Customer,0,0,15.0,44,40,0 Canary Parkway,2506,NSW,Australia,9
 1472,Female,3,1964-03-03,Financial Services,Mass Customer,0,0,17.0,58,60,2 Dayton Center,2487,NSW,Australia,9
 1474,Male,54,1986-05-27,Health,Mass Customer,0,1,21.0,36,40,828 Schlimgen Circle,2450,NSW,Australia,5
-1475,Male,41,1985-07-21,Retail,Affluent Customer,0,1,7.0,36,40,558 Thompson Junction,2440,NSW,Australia,6
+1475,Male,41,1985-07-21,Retail,Affluent Customer,0,1,7.0,37,40,558 Thompson Junction,2440,NSW,Australia,6
 1478,Male,40,1992-12-05,Financial Services,High Net Worth,0,0,9.0,29,30,12 Express Pass,2340,NSW,Australia,2
 1479,Male,25,1977-10-20,Argiculture,Mass Customer,0,0,21.0,44,40,76 Norway Maple Drive,4509,QLD,Australia,6
 1481,Female,93,1976-06-26,Financial Services,Affluent Customer,0,0,14.0,46,50,038 North Court,2333,NSW,Australia,3
@@ -1268,7 +1268,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1538,Male,74,1989-04-22,Health,High Net Worth,0,1,12.0,33,30,27 Hooker Plaza,2177,NSW,Australia,8
 1540,Female,53,1962-03-17,Property,Mass Customer,0,1,19.0,60,60,8 Monument Junction,2154,NSW,Australia,11
 1541,Female,7,1954-12-28,Argiculture,Mass Customer,0,1,13.0,67,70,22 Portage Road,2155,NSW,Australia,9
-1542,Male,56,1978-07-27,Health,Mass Customer,0,1,12.0,43,40,243 Mosinee Place,2155,NSW,Australia,10
+1542,Male,56,1978-07-27,Health,Mass Customer,0,1,12.0,44,40,243 Mosinee Place,2155,NSW,Australia,10
 1544,Male,75,1963-08-22,Health,Affluent Customer,0,1,11.0,58,60,16 Maple Wood Center,2155,NSW,Australia,10
 1545,Male,34,1977-09-06,Health,Mass Customer,0,1,15.0,44,40,8595 Ruskin Plaza,3196,VIC,Australia,10
 1546,Female,22,1956-10-28,Financial Services,Mass Customer,0,1,8.0,65,60,2 Eastwood Street,2153,NSW,Australia,10
@@ -1293,7 +1293,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1568,Female,78,1980-05-23,Manufacturing,Mass Customer,0,1,9.0,42,40,5 Manley Avenue,2122,NSW,Australia,11
 1570,Female,70,1995-11-20,Entertainment,Mass Customer,0,0,17.0,26,30,97910 Leroy Junction,2073,NSW,Australia,12
 1571,Male,19,1980-09-08,Health,Mass Customer,0,1,22.0,41,40,608 Rutledge Drive,2121,NSW,Australia,11
-1572,Male,51,1957-07-26,Financial Services,High Net Worth,0,1,16.0,64,60,8 Heffernan Crossing,2126,NSW,Australia,12
+1572,Male,51,1957-07-26,Financial Services,High Net Worth,0,1,16.0,65,60,8 Heffernan Crossing,2126,NSW,Australia,12
 1573,Female,48,1994-07-05,Property,Mass Customer,0,1,4.0,28,30,9 Northfield Circle,2121,NSW,Australia,12
 1575,Female,82,1989-03-13,Retail,Mass Customer,0,0,17.0,33,30,7015 Hintze Parkway,2153,NSW,Australia,11
 1576,Male,77,1985-11-10,Financial Services,Mass Customer,0,0,20.0,36,40,3525 Buena Vista Plaza,2120,NSW,Australia,9
@@ -1359,7 +1359,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1653,Female,80,1987-04-29,Argiculture,Mass Customer,0,1,12.0,35,40,8012 American Parkway,2138,NSW,Australia,11
 1654,Female,67,1989-03-05,IT,High Net Worth,0,1,9.0,33,30,461 Esker Court,3630,VIC,Australia,1
 1655,Male,38,1983-02-15,Manufacturing,Affluent Customer,0,1,13.0,39,40,22 Badeau Avenue,3161,VIC,Australia,11
-1656,Male,59,1977-07-22,Financial Services,Mass Customer,0,1,7.0,44,40,58 Kipling Avenue,4560,QLD,Australia,8
+1656,Male,59,1977-07-22,Financial Services,Mass Customer,0,1,7.0,45,40,58 Kipling Avenue,4560,QLD,Australia,8
 1657,Male,11,1977-03-08,Financial Services,Mass Customer,0,0,5.0,45,40,4 Jay Court,2763,NSW,Australia,9
 1658,Female,17,1993-12-05,Retail,Mass Customer,0,1,5.0,28,30,17974 Kedzie Circle,2795,NSW,Australia,7
 1659,Female,75,1989-11-14,Property,High Net Worth,0,1,13.0,32,30,82598 Arkansas Hill,2088,NSW,Australia,12
@@ -1382,7 +1382,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1677,Female,56,1958-05-28,Health,Affluent Customer,0,1,16.0,64,60,41 Vahlen Park,2230,NSW,Australia,12
 1678,Female,20,1977-10-07,Financial Services,High Net Worth,0,1,13.0,44,40,9175 Ryan Street,2088,NSW,Australia,12
 1679,Female,92,1975-11-03,Health,Mass Customer,0,1,13.0,46,50,2 Pankratz Place,2063,NSW,Australia,11
-1680,Female,5,1998-07-28,Property,Mass Customer,0,1,4.0,23,20,018 Superior Plaza,2068,NSW,Australia,10
+1680,Female,5,1998-07-28,Property,Mass Customer,0,1,4.0,24,20,018 Superior Plaza,2068,NSW,Australia,10
 1681,Male,78,1979-12-07,Health,High Net Worth,0,1,6.0,42,40,9737 Vernon Junction,3152,VIC,Australia,9
 1682,Female,93,1960-04-25,Manufacturing,Affluent Customer,0,1,6.0,62,60,290 Havey Crossing,3145,VIC,Australia,12
 1684,Female,96,1979-07-10,Manufacturing,Mass Customer,0,0,6.0,43,40,087 Fallview Plaza,4209,QLD,Australia,5
@@ -1422,7 +1422,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1721,Female,82,1980-10-22,Financial Services,High Net Worth,0,0,14.0,41,40,0 Graedel Drive,4817,QLD,Australia,4
 1722,Male,52,1963-07-17,Financial Services,Mass Customer,0,0,4.0,59,60,86 Menomonie Plaza,2290,NSW,Australia,4
 1724,Female,28,1999-01-24,Entertainment,High Net Worth,0,1,4.0,23,20,5676 Golf View Junction,2137,NSW,Australia,12
-1725,Female,80,1979-07-19,Manufacturing,High Net Worth,0,1,16.0,42,40,2 Mcguire Terrace,2323,NSW,Australia,7
+1725,Female,80,1979-07-19,Manufacturing,High Net Worth,0,1,16.0,43,40,2 Mcguire Terrace,2323,NSW,Australia,7
 1726,Female,41,1973-08-06,Financial Services,High Net Worth,0,0,11.0,48,50,773 Tomscot Plaza,2203,NSW,Australia,10
 1727,Male,43,1978-05-10,Entertainment,High Net Worth,0,0,6.0,44,40,5 Fisk Way,2230,NSW,Australia,12
 1728,Male,41,1977-05-04,Financial Services,Affluent Customer,0,0,22.0,45,40,0 Pierstorff Place,2770,NSW,Australia,8
@@ -1438,7 +1438,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1738,Male,39,1985-04-24,Argiculture,High Net Worth,0,1,14.0,37,40,0130 Loeprich Lane,3808,VIC,Australia,9
 1739,Male,20,1954-10-06,Entertainment,Mass Customer,0,0,7.0,67,70,0 Warner Road,2680,NSW,Australia,4
 1741,Male,18,1994-07-11,Financial Services,High Net Worth,0,0,3.0,28,30,27 Evergreen Terrace,2261,NSW,Australia,9
-1743,Male,80,1981-07-25,Manufacturing,Affluent Customer,0,1,8.0,40,40,4912 Lukken Way,4570,QLD,Australia,3
+1743,Male,80,1981-07-25,Manufacturing,Affluent Customer,0,1,8.0,41,40,4912 Lukken Way,4570,QLD,Australia,3
 1744,Female,41,1972-01-21,Financial Services,High Net Worth,0,0,12.0,50,50,89 Cherokee Road,4211,QLD,Australia,8
 1745,Female,37,1955-08-23,Financial Services,Mass Customer,0,1,6.0,66,70,4216 Annamark Pass,4300,QLD,Australia,4
 1746,Male,58,1962-01-05,IT,High Net Worth,0,0,6.0,60,60,6 Forest Dale Parkway,4017,QLD,Australia,4
@@ -1467,7 +1467,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1777,Female,47,1994-05-02,Retail,Affluent Customer,0,0,1.0,28,30,835 West Hill,2118,NSW,Australia,11
 1779,Male,55,1996-11-19,Argiculture,Affluent Customer,0,0,5.0,25,20,6238 Hanover Crossing,3141,VIC,Australia,7
 1782,Male,47,1966-12-22,Health,Affluent Customer,0,1,9.0,55,60,162 Golf View Hill,2011,NSW,Australia,6
-1783,Male,55,1995-07-30,Retail,Mass Customer,0,1,7.0,26,30,7389 Union Place,2745,NSW,Australia,8
+1783,Male,55,1995-07-30,Retail,Mass Customer,0,1,7.0,27,30,7389 Union Place,2745,NSW,Australia,8
 1784,Female,37,1994-10-15,Manufacturing,Mass Customer,0,1,6.0,27,30,07 Miller Pass,2017,NSW,Australia,9
 1785,Male,23,1960-12-10,Health,Mass Customer,0,0,19.0,61,60,30 Delladonna Plaza,3046,VIC,Australia,8
 1786,Female,70,1962-03-20,Argiculture,High Net Worth,0,1,11.0,60,60,7395 Blackbird Lane,2134,NSW,Australia,9
@@ -1527,12 +1527,12 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1850,Male,4,1978-05-16,Manufacturing,High Net Worth,0,0,7.0,44,40,95294 Karstens Park,2155,NSW,Australia,9
 1852,Female,22,1978-01-21,Manufacturing,Affluent Customer,0,0,18.0,44,40,14 Westport Pass,3029,VIC,Australia,6
 1855,Male,2,1971-07-08,Entertainment,Mass Customer,0,1,18.0,51,50,0 Prairie Rose Place,3802,VIC,Australia,7
-1856,Female,57,1969-07-20,Retail,Mass Customer,0,0,4.0,52,50,56145 Porter Lane,2010,NSW,Australia,10
+1856,Female,57,1969-07-20,Retail,Mass Customer,0,0,4.0,53,50,56145 Porter Lane,2010,NSW,Australia,10
 1857,Male,57,1968-09-20,Manufacturing,Affluent Customer,0,1,5.0,53,50,509 Ridgeway Junction,3166,VIC,Australia,10
 1858,Female,30,1957-04-26,Manufacturing,High Net Worth,0,1,11.0,65,60,41 Eagan Junction,2570,NSW,Australia,8
 1859,Female,81,1990-04-08,IT,High Net Worth,0,1,12.0,32,30,5290 Lunder Park,2287,NSW,Australia,7
 1860,Female,4,1976-12-28,Manufacturing,Mass Customer,0,1,17.0,45,40,52425 Prairie Rose Road,4500,QLD,Australia,6
-1861,Female,26,1967-07-18,Manufacturing,Mass Customer,0,1,8.0,54,50,7939 Toban Crossing,2770,NSW,Australia,7
+1861,Female,26,1967-07-18,Manufacturing,Mass Customer,0,1,8.0,55,60,7939 Toban Crossing,2770,NSW,Australia,7
 1862,Female,24,1980-06-29,Health,High Net Worth,0,1,4.0,42,40,0672 Lyons Pass,2153,NSW,Australia,10
 1863,Male,10,1978-05-11,Telecommunications,High Net Worth,0,0,20.0,44,40,904 Mandrake Parkway,2820,NSW,Australia,1
 1864,Female,45,1960-07-03,Retail,Mass Customer,0,0,18.0,62,60,3007 Summer Ridge Street,4511,QLD,Australia,7
@@ -1579,7 +1579,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1914,Male,72,1968-06-21,Financial Services,Mass Customer,0,0,5.0,54,50,5 Porter Road,4014,QLD,Australia,6
 1915,Female,40,1953-10-12,Health,Mass Customer,0,1,12.0,68,70,59 Waywood Road,3163,VIC,Australia,8
 1916,Male,71,1995-03-05,Retail,High Net Worth,0,1,7.0,27,30,6838 Anniversary Junction,2484,NSW,Australia,4
-1917,Female,7,1973-07-28,Argiculture,Affluent Customer,0,1,8.0,48,50,90128 Caliangt Place,2484,NSW,Australia,4
+1917,Female,7,1973-07-28,Argiculture,Affluent Customer,0,1,8.0,49,50,90128 Caliangt Place,2484,NSW,Australia,4
 1919,Male,40,1960-12-23,Argiculture,Mass Customer,0,1,19.0,61,60,9 Utah Road,4179,QLD,Australia,8
 1920,Male,29,1988-01-06,Financial Services,Mass Customer,0,0,13.0,34,30,00213 Atwood Pass,2340,NSW,Australia,1
 1923,Male,52,1970-08-23,Health,Mass Customer,0,0,9.0,51,50,4 Susan Center,3170,VIC,Australia,9
@@ -1633,7 +1633,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 1986,Female,53,1981-12-30,Retail,Mass Customer,0,0,16.0,40,40,366 International Way,2170,NSW,Australia,8
 1987,Male,56,1956-06-08,Health,Affluent Customer,0,0,8.0,66,70,427 Rockefeller Drive,2093,NSW,Australia,12
 1988,Male,27,1957-04-15,Property,Mass Customer,0,0,8.0,65,60,5176 Division Hill,3216,VIC,Australia,5
-1989,Female,46,1973-07-21,Property,High Net Worth,0,1,17.0,48,50,1 Raven Place,2160,NSW,Australia,6
+1989,Female,46,1973-07-21,Property,High Net Worth,0,1,17.0,49,50,1 Raven Place,2160,NSW,Australia,6
 1991,Male,35,1993-09-27,Health,Mass Customer,0,1,8.0,28,30,42554 Burrows Court,2117,NSW,Australia,10
 1992,Female,28,1995-10-21,Manufacturing,Mass Customer,0,1,3.0,26,30,726 Warrior Center,2077,NSW,Australia,10
 1994,Female,71,1986-04-25,Manufacturing,High Net Worth,0,0,11.0,36,40,35 Debra Way,3201,VIC,Australia,6
@@ -1647,7 +1647,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2005,Female,41,1978-08-20,Manufacturing,High Net Worth,0,0,17.0,43,40,3984 Clove Street,3192,VIC,Australia,10
 2006,Female,33,1999-10-04,Property,High Net Worth,0,1,2.0,22,20,4 Rowland Plaza,2324,NSW,Australia,4
 2007,Male,8,1970-04-13,Manufacturing,Mass Customer,0,1,15.0,52,50,5157 Maple Wood Circle,2537,NSW,Australia,8
-2008,Male,77,1993-07-27,Financial Services,Mass Customer,0,1,3.0,28,30,559 Blackbird Street,4580,QLD,Australia,2
+2008,Male,77,1993-07-27,Financial Services,Mass Customer,0,1,3.0,29,30,559 Blackbird Street,4580,QLD,Australia,2
 2009,Female,19,1960-03-16,Health,Affluent Customer,0,1,19.0,62,60,6466 Troy Street,2763,NSW,Australia,8
 2010,Male,88,1974-01-31,Manufacturing,High Net Worth,0,1,7.0,48,50,7135 Ruskin Avenue,2563,NSW,Australia,11
 2011,Male,68,1978-01-22,Manufacturing,High Net Worth,0,1,12.0,44,40,5 Loftsgordon Avenue,2068,NSW,Australia,12
@@ -1823,7 +1823,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2223,Female,38,1981-01-29,Health,Mass Customer,0,0,12.0,41,40,2 Michigan Parkway,3006,VIC,Australia,5
 2224,Female,3,1998-08-18,Retail,High Net Worth,0,1,4.0,23,20,24 Hermina Alley,2262,NSW,Australia,6
 2225,Female,45,1988-04-02,Health,Affluent Customer,0,0,19.0,34,30,82237 Dapin Court,4570,QLD,Australia,4
-2226,Female,10,1955-07-22,Entertainment,Mass Customer,0,0,11.0,66,70,1 Basil Street,4037,QLD,Australia,8
+2226,Female,10,1955-07-22,Entertainment,Mass Customer,0,0,11.0,67,70,1 Basil Street,4037,QLD,Australia,8
 2227,Male,45,1976-07-16,Property,Affluent Customer,0,1,9.0,46,50,60650 Mcbride Point,3918,VIC,Australia,7
 2228,Female,12,1956-03-09,Manufacturing,High Net Worth,0,0,9.0,66,70,81 Lien Drive,3216,VIC,Australia,3
 2229,Female,76,1959-04-10,Financial Services,Affluent Customer,0,1,7.0,63,60,37353 Alpine Circle,2214,NSW,Australia,8
@@ -1832,7 +1832,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2236,Male,0,1968-04-16,Manufacturing,Affluent Customer,0,1,13.0,54,50,261 Mosinee Avenue,2335,NSW,Australia,5
 2238,Female,96,1978-09-14,Retail,Mass Customer,0,1,14.0,43,40,9 Washington Drive,3079,VIC,Australia,9
 2239,Female,0,1960-01-11,Property,High Net Worth,0,1,8.0,62,60,48 Straubel Court,2400,NSW,Australia,1
-2240,Male,4,1969-07-25,Manufacturing,High Net Worth,0,1,16.0,52,50,70 Old Gate Avenue,3043,VIC,Australia,7
+2240,Male,4,1969-07-25,Manufacturing,High Net Worth,0,1,16.0,53,50,70 Old Gate Avenue,3043,VIC,Australia,7
 2241,Male,45,1975-02-23,Financial Services,High Net Worth,0,0,10.0,47,50,40062 Steensland Center,3977,VIC,Australia,6
 2244,Male,97,1972-05-10,Manufacturing,Mass Customer,0,0,5.0,50,50,259 Homewood Pass,2092,NSW,Australia,10
 2245,Female,11,1980-04-21,Argiculture,Mass Customer,0,0,3.0,42,40,863 Crescent Oaks Hill,4215,QLD,Australia,1
@@ -1851,15 +1851,15 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2261,Male,81,1980-09-21,Health,Mass Customer,0,1,13.0,41,40,7035 Crest Line Place,3101,VIC,Australia,11
 2262,Female,90,1984-04-21,Health,Mass Customer,0,1,2.0,38,40,9129 Gale Court,4226,QLD,Australia,8
 2263,Female,79,1987-02-06,Argiculture,Mass Customer,0,1,21.0,35,40,71109 Vernon Way,3350,VIC,Australia,4
-2264,Female,18,1972-07-17,Health,Affluent Customer,0,0,9.0,49,50,883 Almo Terrace,3977,VIC,Australia,6
-2265,Male,55,1980-07-29,Property,Mass Customer,0,1,5.0,41,40,987 Victoria Trail,4006,QLD,Australia,8
+2264,Female,18,1972-07-17,Health,Affluent Customer,0,0,9.0,50,50,883 Almo Terrace,3977,VIC,Australia,6
+2265,Male,55,1980-07-29,Property,Mass Customer,0,1,5.0,42,40,987 Victoria Trail,4006,QLD,Australia,8
 2266,Male,74,1998-10-11,Retail,High Net Worth,0,0,1.0,23,20,7037 North Park,2484,NSW,Australia,6
 2268,Female,66,1965-10-07,Health,Mass Customer,0,0,19.0,56,60,9574 David Lane,3218,VIC,Australia,8
 2270,Male,50,1966-09-28,Retail,Affluent Customer,0,0,9.0,55,60,38 Valley Edge Plaza,3095,VIC,Australia,10
 2271,Male,96,1974-03-26,Telecommunications,Mass Customer,0,1,18.0,48,50,004 Gulseth Junction,2619,NSW,Australia,8
 2272,Female,82,1994-12-21,Manufacturing,Mass Customer,0,0,1.0,27,30,503 Clove Crossing,4306,QLD,Australia,4
 2274,Female,15,1979-11-26,Manufacturing,Mass Customer,0,1,13.0,42,40,5 Derek Pass,2090,NSW,Australia,10
-2275,Female,77,1992-07-19,Financial Services,High Net Worth,0,1,8.0,29,30,3417 Huxley Pass,3355,VIC,Australia,2
+2275,Female,77,1992-07-19,Financial Services,High Net Worth,0,1,8.0,30,30,3417 Huxley Pass,3355,VIC,Australia,2
 2277,Female,44,1963-08-22,Financial Services,High Net Worth,0,1,7.0,58,60,09 Grim Lane,3752,VIC,Australia,4
 2278,Male,11,1977-09-25,Health,Affluent Customer,0,1,8.0,44,40,31953 Dixon Way,2580,NSW,Australia,4
 2279,Male,42,1979-03-19,Health,Mass Customer,0,0,3.0,43,40,463 Rowland Drive,2066,NSW,Australia,9
@@ -2000,7 +2000,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2448,Female,5,1992-12-18,Property,High Net Worth,0,0,10.0,29,30,11 Dunning Pass,2219,NSW,Australia,10
 2450,Male,64,1974-06-21,Retail,Affluent Customer,0,1,7.0,48,50,76 Schiller Pass,4455,QLD,Australia,3
 2451,Male,33,1973-03-09,Argiculture,Affluent Customer,0,1,18.0,49,50,71761 Almo Street,4178,QLD,Australia,7
-2452,Female,93,1975-07-24,Manufacturing,Mass Customer,0,1,17.0,46,50,4898 Buell Terrace,3043,VIC,Australia,7
+2452,Female,93,1975-07-24,Manufacturing,Mass Customer,0,1,17.0,47,50,4898 Buell Terrace,3043,VIC,Australia,7
 2453,Female,22,1992-08-05,Telecommunications,High Net Worth,0,0,9.0,29,30,6 Morningstar Way,2165,NSW,Australia,7
 2454,Female,81,1960-02-13,Property,Mass Customer,0,1,12.0,62,60,15 Shelley Hill,2164,NSW,Australia,8
 2455,Female,64,1977-10-09,Manufacturing,Mass Customer,0,0,21.0,44,40,1556 Sheridan Hill,4165,QLD,Australia,5
@@ -2070,7 +2070,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2530,Female,63,1960-08-03,Property,Mass Customer,0,1,18.0,61,60,2757 Green Ridge Circle,2567,NSW,Australia,8
 2531,Male,48,1981-08-20,Property,High Net Worth,0,1,8.0,40,40,46 Dawn Way,2340,NSW,Australia,5
 2532,Female,27,1969-05-01,Manufacturing,Mass Customer,0,0,11.0,53,50,53723 Dunning Street,2153,NSW,Australia,11
-2533,Male,11,1993-07-26,Health,Affluent Customer,0,1,5.0,28,30,671 Mallory Pass,2177,NSW,Australia,8
+2533,Male,11,1993-07-26,Health,Affluent Customer,0,1,5.0,29,30,671 Mallory Pass,2177,NSW,Australia,8
 2534,Female,70,1965-06-21,Manufacturing,Affluent Customer,0,1,12.0,57,60,025 Knutson Terrace,2350,NSW,Australia,3
 2535,Male,53,1981-08-20,Financial Services,Affluent Customer,0,0,13.0,40,40,778 Cambridge Street,4209,QLD,Australia,4
 2536,Female,71,1964-06-10,Health,Mass Customer,0,1,16.0,58,60,601 Dryden Way,2264,NSW,Australia,7
@@ -2113,7 +2113,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2590,Female,48,1964-09-22,Financial Services,Affluent Customer,0,1,11.0,57,60,27 Grayhawk Alley,2102,NSW,Australia,11
 2591,Male,50,1974-02-04,Retail,High Net Worth,0,0,13.0,48,50,5342 Hallows Lane,2021,NSW,Australia,12
 2592,Male,84,1995-06-19,Financial Services,Mass Customer,0,1,1.0,27,30,303 Michigan Avenue,3977,VIC,Australia,5
-2593,Female,69,1973-07-26,Manufacturing,Affluent Customer,0,0,19.0,48,50,6 Forest Avenue,2870,NSW,Australia,4
+2593,Female,69,1973-07-26,Manufacturing,Affluent Customer,0,0,19.0,49,50,6 Forest Avenue,2870,NSW,Australia,4
 2594,Male,90,1997-06-23,Manufacturing,Mass Customer,0,0,2.0,25,20,3 Pennsylvania Terrace,2197,NSW,Australia,9
 2597,Female,58,1980-10-25,Manufacturing,High Net Worth,0,1,11.0,41,40,97 Waxwing Terrace,4217,QLD,Australia,10
 2598,Male,23,1980-03-26,Manufacturing,Affluent Customer,0,0,9.0,42,40,2 Marquette Drive,2204,NSW,Australia,8
@@ -2139,7 +2139,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2620,Male,26,1999-04-30,Manufacturing,Mass Customer,0,0,1.0,23,20,61 Northfield Pass,2190,NSW,Australia,10
 2621,Female,24,1974-02-21,Entertainment,High Net Worth,0,0,15.0,48,50,536 Crowley Crossing,2167,NSW,Australia,7
 2622,Male,13,1979-12-10,Financial Services,Mass Customer,0,0,16.0,42,40,0 Erie Lane,4405,QLD,Australia,1
-2623,Male,42,1982-07-28,Property,Mass Customer,0,1,15.0,39,40,9837 Granby Alley,2445,NSW,Australia,7
+2623,Male,42,1982-07-28,Property,Mass Customer,0,1,15.0,40,40,9837 Granby Alley,2445,NSW,Australia,7
 2624,Male,37,1964-07-08,Retail,Mass Customer,0,1,11.0,58,60,8 Lake View Way,3977,VIC,Australia,7
 2625,Female,45,1972-03-16,Manufacturing,Affluent Customer,0,1,8.0,50,50,1567 Schiller Street,3810,VIC,Australia,6
 2626,Male,42,1998-10-24,Property,Affluent Customer,0,1,4.0,23,20,6 Warbler Road,2462,NSW,Australia,5
@@ -2174,7 +2174,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2665,Male,43,1965-03-28,Telecommunications,Mass Customer,0,1,17.0,57,60,4543 Service Terrace,2566,NSW,Australia,8
 2666,Male,2,1971-02-16,Health,Mass Customer,0,0,9.0,51,50,0 Knutson Crossing,2151,NSW,Australia,8
 2667,Female,65,1958-07-17,Manufacturing,Affluent Customer,0,1,6.0,64,60,28156 School Park,3188,VIC,Australia,10
-2668,Male,27,1978-07-26,Health,Mass Customer,0,0,18.0,43,40,920 Manley Crossing,4226,QLD,Australia,8
+2668,Male,27,1978-07-26,Health,Mass Customer,0,0,18.0,44,40,920 Manley Crossing,4226,QLD,Australia,8
 2669,Male,95,1995-02-18,Property,Affluent Customer,0,0,1.0,27,30,38 Armistice Lane,3250,VIC,Australia,2
 2670,Male,53,1977-05-13,Financial Services,High Net Worth,0,1,18.0,45,40,6988 Waxwing Hill,4700,QLD,Australia,3
 2672,Male,21,1986-01-16,Health,Affluent Customer,0,0,4.0,36,40,8 Eagle Crest Circle,2137,NSW,Australia,12
@@ -2199,12 +2199,12 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2695,Female,88,1976-08-16,Manufacturing,Mass Customer,0,1,19.0,45,40,718 Fair Oaks Point,2068,NSW,Australia,12
 2698,Female,19,1974-06-15,Health,High Net Worth,0,0,20.0,48,50,77196 West Crossing,2166,NSW,Australia,8
 2699,Male,93,1978-05-25,Manufacturing,Affluent Customer,0,1,16.0,44,40,7 Fordem Point,3057,VIC,Australia,7
-2701,Female,13,1960-07-28,Health,Affluent Customer,0,1,7.0,61,60,41 Westport Center,3280,VIC,Australia,4
+2701,Female,13,1960-07-28,Health,Affluent Customer,0,1,7.0,62,60,41 Westport Center,3280,VIC,Australia,4
 2702,Female,34,1976-11-30,Manufacturing,Affluent Customer,0,1,11.0,45,40,8598 Nova Parkway,2758,NSW,Australia,9
 2703,Female,37,1980-04-12,Manufacturing,Affluent Customer,0,1,18.0,42,40,4826 Crowley Park,2779,NSW,Australia,7
 2704,Male,6,1999-02-08,Retail,Affluent Customer,0,1,3.0,23,20,3 Vermont Alley,2261,NSW,Australia,5
 2705,Female,11,1996-10-20,Manufacturing,Mass Customer,0,0,3.0,25,20,7107 Manitowish Road,4815,QLD,Australia,2
-2706,Male,59,1964-07-21,Retail,Affluent Customer,0,0,6.0,57,60,9304 Birchwood Junction,2070,NSW,Australia,12
+2706,Male,59,1964-07-21,Retail,Affluent Customer,0,0,6.0,58,60,9304 Birchwood Junction,2070,NSW,Australia,12
 2707,Male,56,1988-12-26,Property,High Net Worth,0,1,5.0,33,30,91655 Rowland Point,4123,QLD,Australia,8
 2709,Male,6,1995-03-20,Financial Services,High Net Worth,0,0,6.0,27,30,6418 Sachs Trail,2810,NSW,Australia,1
 2710,Male,77,1998-01-30,Retail,Mass Customer,0,0,2.0,24,20,86445 Bonner Junction,4660,QLD,Australia,3
@@ -2223,7 +2223,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2724,Male,92,1994-01-10,Financial Services,Mass Customer,0,0,4.0,28,30,3 Independence Street,4073,QLD,Australia,6
 2725,Female,20,1965-06-19,Property,Affluent Customer,0,0,11.0,57,60,8 Holmberg Street,2444,NSW,Australia,7
 2726,Male,49,1976-03-18,Financial Services,Affluent Customer,0,0,4.0,46,50,15776 Thackeray Alley,2261,NSW,Australia,7
-2727,Female,88,1988-07-22,Financial Services,High Net Worth,0,1,2.0,33,30,05 Lerdahl Place,4215,QLD,Australia,6
+2727,Female,88,1988-07-22,Financial Services,High Net Worth,0,1,2.0,34,30,05 Lerdahl Place,4215,QLD,Australia,6
 2728,Female,55,1959-03-26,IT,High Net Worth,0,0,19.0,63,60,512 Forest Run Center,3188,VIC,Australia,11
 2730,Male,15,1960-11-27,Financial Services,Mass Customer,0,0,11.0,61,60,63 International Drive,4165,QLD,Australia,7
 2731,Female,74,2000-05-18,Retail,Mass Customer,0,1,1.0,22,20,04 Schmedeman Court,2196,NSW,Australia,10
@@ -2231,9 +2231,9 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2733,Female,89,1985-03-07,Manufacturing,Mass Customer,0,1,17.0,37,40,81254 Buhler Trail,4740,QLD,Australia,2
 2734,Female,35,1957-03-07,Manufacturing,High Net Worth,0,0,10.0,65,60,27 Fuller Trail,2233,NSW,Australia,8
 2735,Male,18,1958-09-06,Financial Services,High Net Worth,0,1,14.0,63,60,313 Mifflin Center,4504,QLD,Australia,5
-2737,Male,28,1998-07-20,Retail,Mass Customer,0,1,3.0,23,20,86 Hansons Parkway,2211,NSW,Australia,8
+2737,Male,28,1998-07-20,Retail,Mass Customer,0,1,3.0,24,20,86 Hansons Parkway,2211,NSW,Australia,8
 2738,Female,77,1997-01-06,Health,Mass Customer,0,0,5.0,25,20,8476 Village Green Park,2774,NSW,Australia,9
-2739,Male,48,1985-07-18,Health,High Net Worth,0,1,15.0,36,40,45454 Spenser Center,3149,VIC,Australia,12
+2739,Male,48,1985-07-18,Health,High Net Worth,0,1,15.0,37,40,45454 Spenser Center,3149,VIC,Australia,12
 2740,Female,61,1963-02-02,Financial Services,Affluent Customer,0,1,12.0,59,60,28820 Monica Circle,2226,NSW,Australia,7
 2741,Male,6,1999-02-28,Property,High Net Worth,0,0,4.0,23,20,259 Summerview Center,4740,QLD,Australia,2
 2742,Male,50,1979-04-14,Financial Services,High Net Worth,0,1,15.0,43,40,82206 Dennis Place,4124,QLD,Australia,8
@@ -2244,11 +2244,11 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2748,Female,96,1967-08-29,Financial Services,Mass Customer,0,0,4.0,54,50,4320 Toban Avenue,2260,NSW,Australia,11
 2749,Male,3,1979-01-12,Retail,Mass Customer,0,0,5.0,43,40,129 Mallory Junction,2196,NSW,Australia,10
 2750,Female,42,1980-10-18,Property,High Net Worth,0,0,20.0,41,40,68730 Hermina Place,3130,VIC,Australia,10
-2751,Male,94,1979-07-27,Retail,High Net Worth,0,1,12.0,42,40,25 Ronald Regan Point,4035,QLD,Australia,7
+2751,Male,94,1979-07-27,Retail,High Net Worth,0,1,12.0,43,40,25 Ronald Regan Point,4035,QLD,Australia,7
 2752,Female,11,1960-05-10,Retail,Affluent Customer,0,1,14.0,62,60,79 Eggendart Trail,3977,VIC,Australia,8
 2753,Male,26,1985-02-12,Manufacturing,Mass Customer,0,1,7.0,37,40,744 Hazelcrest Way,2155,NSW,Australia,9
 2754,Male,17,1963-06-23,Retail,Mass Customer,0,0,11.0,59,60,91973 Boyd Street,2287,NSW,Australia,7
-2755,Female,66,1999-07-28,Manufacturing,Mass Customer,0,1,1.0,22,20,2241 Pearson Plaza,4503,QLD,Australia,6
+2755,Female,66,1999-07-28,Manufacturing,Mass Customer,0,1,1.0,23,20,2241 Pearson Plaza,4503,QLD,Australia,6
 2756,Female,11,1969-01-17,Entertainment,Mass Customer,0,0,8.0,53,50,244 Burrows Center,3088,VIC,Australia,9
 2757,Female,65,1961-02-18,Financial Services,Affluent Customer,0,0,8.0,61,60,2992 Scott Hill,3046,VIC,Australia,8
 2758,Male,17,1955-05-24,Manufacturing,Affluent Customer,0,0,19.0,67,70,5565 Park Meadow Trail,2155,NSW,Australia,9
@@ -2267,7 +2267,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2771,Female,6,1969-10-05,Retail,Affluent Customer,0,1,10.0,52,50,83007 Bartillon Lane,2830,NSW,Australia,4
 2772,Male,15,1954-10-25,Property,Affluent Customer,0,1,13.0,67,70,542 Hayes Plaza,2750,NSW,Australia,9
 2773,Male,69,1976-03-21,Manufacturing,Mass Customer,0,1,20.0,46,50,0 Debs Lane,3204,VIC,Australia,7
-2774,Female,50,1956-07-28,Manufacturing,Mass Customer,0,0,14.0,65,60,23 Clyde Gallagher Alley,3840,VIC,Australia,1
+2774,Female,50,1956-07-28,Manufacturing,Mass Customer,0,0,14.0,66,70,23 Clyde Gallagher Alley,3840,VIC,Australia,1
 2775,Female,40,1966-12-02,Manufacturing,Mass Customer,0,1,7.0,55,60,75642 Kinsman Terrace,4014,QLD,Australia,8
 2777,Female,0,1997-02-26,Health,Mass Customer,0,1,1.0,25,20,39 Badeau Court,2572,NSW,Australia,8
 2778,Male,50,1978-08-13,Financial Services,Mass Customer,0,0,12.0,43,40,0 Summit Trail,2287,NSW,Australia,5
@@ -2332,7 +2332,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2847,Female,50,1976-03-21,Health,Mass Customer,0,0,12.0,46,50,48418 Crescent Oaks Court,2770,NSW,Australia,9
 2848,Female,42,1967-01-17,Property,Mass Customer,0,1,13.0,55,60,9 Steensland Center,3103,VIC,Australia,12
 2851,Male,36,1975-12-17,Entertainment,Affluent Customer,0,1,16.0,46,50,11035 Toban Lane,2770,NSW,Australia,8
-2852,Female,20,1971-07-22,Property,High Net Worth,0,1,14.0,50,50,35 Eastwood Plaza,3163,VIC,Australia,9
+2852,Female,20,1971-07-22,Property,High Net Worth,0,1,14.0,51,50,35 Eastwood Plaza,3163,VIC,Australia,9
 2853,Male,65,1985-10-21,Retail,High Net Worth,0,1,7.0,36,40,52 Ruskin Pass,2089,NSW,Australia,10
 2855,Female,81,1975-09-13,Manufacturing,Mass Customer,0,1,17.0,46,50,9179 Esker Park,2155,NSW,Australia,10
 2856,Female,53,1976-09-25,Financial Services,Mass Customer,0,1,13.0,45,40,57 Village Green Center,2077,NSW,Australia,10
@@ -2393,15 +2393,15 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2925,Male,36,1978-05-02,Financial Services,Affluent Customer,0,1,19.0,44,40,00 Heath Road,2259,NSW,Australia,8
 2926,Female,27,1963-03-20,Health,High Net Worth,0,0,12.0,59,60,970 Randy Crossing,4005,QLD,Australia,12
 2927,Male,49,1960-09-08,Manufacturing,Affluent Customer,0,1,14.0,61,60,723 Center Court,3933,VIC,Australia,11
-2929,Male,97,1999-07-28,Retail,Mass Customer,0,0,2.0,22,20,415 Walton Lane,4883,QLD,Australia,3
-2930,Male,46,1997-07-25,Entertainment,Mass Customer,0,0,3.0,24,20,51 Bay Junction,2081,NSW,Australia,10
+2929,Male,97,1999-07-28,Retail,Mass Customer,0,0,2.0,23,20,415 Walton Lane,4883,QLD,Australia,3
+2930,Male,46,1997-07-25,Entertainment,Mass Customer,0,0,3.0,25,20,51 Bay Junction,2081,NSW,Australia,10
 2931,Male,61,1979-01-27,IT,Mass Customer,0,1,6.0,43,40,16673 Pawling Point,4702,QLD,Australia,5
 2932,Male,4,1985-04-18,IT,Mass Customer,0,0,17.0,37,40,2875 Anhalt Court,4570,QLD,Australia,3
 2933,Male,61,1986-04-19,Retail,Affluent Customer,0,1,6.0,36,40,7561 Donald Center,3810,VIC,Australia,5
 2934,Female,26,1986-04-08,Telecommunications,Mass Customer,0,1,9.0,36,40,13282 Pond Circle,2471,NSW,Australia,2
 2935,Female,41,1978-04-23,Manufacturing,Mass Customer,0,0,17.0,44,40,1 Farwell Center,2199,NSW,Australia,9
 2936,Female,23,1984-05-20,Financial Services,Mass Customer,0,1,11.0,38,40,7 New Castle Terrace,2223,NSW,Australia,10
-2937,Female,47,1974-07-29,Financial Services,Mass Customer,0,0,15.0,47,50,572 Spohn Drive,3046,VIC,Australia,8
+2937,Female,47,1974-07-29,Financial Services,Mass Customer,0,0,15.0,48,50,572 Spohn Drive,3046,VIC,Australia,8
 2938,Male,79,2000-02-21,Argiculture,Affluent Customer,0,0,2.0,22,20,53 Hintze Circle,4005,QLD,Australia,7
 2941,Female,38,1963-08-05,Retail,Mass Customer,0,0,10.0,58,60,692 Anniversary Junction,4207,QLD,Australia,1
 2944,Male,45,1977-06-05,Manufacturing,Affluent Customer,0,0,7.0,45,40,797 Orin Terrace,2119,NSW,Australia,10
@@ -2433,7 +2433,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2975,Female,67,1981-03-09,Financial Services,Mass Customer,0,0,14.0,41,40,26223 Warrior Terrace,2204,NSW,Australia,9
 2976,Male,16,1964-08-07,Health,Mass Customer,0,1,8.0,57,60,85 Kim Way,3140,VIC,Australia,9
 2978,Male,96,1974-05-07,Manufacturing,Affluent Customer,0,0,10.0,48,50,3 Hudson Circle,2250,NSW,Australia,9
-2979,Female,39,1976-07-25,Retail,Mass Customer,0,0,18.0,45,40,8594 Warner Park,3053,VIC,Australia,6
+2979,Female,39,1976-07-25,Retail,Mass Customer,0,0,18.0,46,50,8594 Warner Park,3053,VIC,Australia,6
 2980,Female,27,1979-12-22,Manufacturing,Mass Customer,0,0,4.0,42,40,6136 Farragut Plaza,3181,VIC,Australia,6
 2981,Male,26,1980-03-30,Retail,High Net Worth,0,1,21.0,42,40,9 7th Pass,2760,NSW,Australia,9
 2982,Female,30,1982-08-08,Financial Services,Mass Customer,0,1,11.0,39,40,1 Graceland Trail,3195,VIC,Australia,9
@@ -2452,7 +2452,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 2997,Female,57,1973-05-17,Health,Affluent Customer,0,0,10.0,49,50,09 Texas Plaza,4285,QLD,Australia,3
 2998,Female,34,2000-12-19,Manufacturing,High Net Worth,0,1,2.0,21,20,99 Lawn Court,4556,QLD,Australia,7
 3000,Male,28,1974-05-15,Financial Services,Affluent Customer,0,0,22.0,48,50,0 Lakewood Street,2144,NSW,Australia,10
-3001,Male,48,1977-07-22,Argiculture,Mass Customer,0,0,20.0,44,40,2 Hagan Hill,2155,NSW,Australia,10
+3001,Male,48,1977-07-22,Argiculture,Mass Customer,0,0,20.0,45,40,2 Hagan Hill,2155,NSW,Australia,10
 3002,Male,62,1956-12-06,Financial Services,Mass Customer,0,1,16.0,65,60,673 Comanche Parkway,2470,NSW,Australia,2
 3003,Female,72,1963-05-02,Retail,Mass Customer,0,1,4.0,59,60,78 Algoma Circle,2166,NSW,Australia,8
 3004,Male,82,1955-02-20,Health,Mass Customer,0,1,16.0,67,70,9 Swallow Avenue,3179,VIC,Australia,9
@@ -2461,7 +2461,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3008,Female,40,1982-05-13,Health,High Net Worth,0,1,17.0,40,40,91 Jay Drive,2560,NSW,Australia,7
 3009,Female,11,1977-04-02,Health,High Net Worth,0,1,14.0,45,40,72 Dennis Road,3805,VIC,Australia,7
 3011,Female,84,1994-05-11,Financial Services,High Net Worth,0,0,3.0,28,30,54 Nevada Plaza,2096,NSW,Australia,12
-3013,Female,94,1968-07-28,Property,High Net Worth,0,0,6.0,53,50,399 Butterfield Crossing,4115,QLD,Australia,7
+3013,Female,94,1968-07-28,Property,High Net Worth,0,0,6.0,54,50,399 Butterfield Crossing,4115,QLD,Australia,7
 3015,Female,25,2000-09-02,Retail,Affluent Customer,0,0,1.0,21,20,2942 Swallow Trail,4214,QLD,Australia,9
 3016,Male,25,1985-08-11,Financial Services,High Net Worth,0,0,11.0,36,40,7 Anzinger Drive,2745,NSW,Australia,10
 3017,Male,88,1955-10-05,Financial Services,Affluent Customer,0,0,7.0,66,70,885 Larry Park,3140,VIC,Australia,9
@@ -2482,7 +2482,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3035,Male,98,1980-04-15,Health,High Net Worth,0,0,13.0,42,40,731 Haas Trail,2125,NSW,Australia,11
 3036,Female,24,1977-04-17,Property,Affluent Customer,0,1,11.0,45,40,2 Grim Court,2168,NSW,Australia,8
 3037,Female,30,1971-10-27,Financial Services,High Net Worth,0,1,18.0,50,50,01654 Milwaukee Plaza,2000,NSW,Australia,11
-3039,Female,52,1968-07-28,Financial Services,Affluent Customer,0,0,18.0,53,50,94611 Cascade Parkway,2763,NSW,Australia,8
+3039,Female,52,1968-07-28,Financial Services,Affluent Customer,0,0,18.0,54,50,94611 Cascade Parkway,2763,NSW,Australia,8
 3040,Female,87,1966-11-28,Retail,Mass Customer,0,0,5.0,55,60,1 Melrose Lane,2010,NSW,Australia,9
 3041,Female,20,1974-03-12,Retail,Mass Customer,0,1,11.0,48,50,88537 Erie Court,4211,QLD,Australia,7
 3042,Male,76,1971-03-17,Property,High Net Worth,0,1,15.0,51,50,5649 Crest Line Place,4455,QLD,Australia,2
@@ -2507,7 +2507,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3067,Female,8,1991-01-13,Manufacturing,Mass Customer,0,1,9.0,31,30,2178 Washington Hill,3806,VIC,Australia,6
 3068,Female,88,1990-12-07,Manufacturing,Affluent Customer,0,0,1.0,31,30,0330 Vahlen Trail,3072,VIC,Australia,7
 3069,Female,59,1988-08-12,Financial Services,Affluent Customer,0,0,12.0,33,30,4351 Maywood Hill,3551,VIC,Australia,4
-3070,Female,74,1998-07-27,Health,Affluent Customer,0,1,1.0,23,20,537 Amoth Center,2220,NSW,Australia,9
+3070,Female,74,1998-07-27,Health,Affluent Customer,0,1,1.0,24,20,537 Amoth Center,2220,NSW,Australia,9
 3071,Female,59,1989-12-25,Entertainment,Mass Customer,0,1,12.0,32,30,23384 Kings Drive,2261,NSW,Australia,9
 3072,Male,87,1979-04-12,Manufacturing,Mass Customer,0,1,10.0,43,40,6269 Oak Valley Avenue,2323,NSW,Australia,5
 3073,Male,16,1967-04-12,Telecommunications,Affluent Customer,0,0,17.0,55,60,74910 Burning Wood Junction,3132,VIC,Australia,10
@@ -2581,7 +2581,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3154,Female,63,1957-11-21,Telecommunications,Mass Customer,0,1,19.0,64,60,0 Warrior Alley,2021,NSW,Australia,10
 3155,Female,88,1976-12-25,IT,Affluent Customer,0,1,21.0,45,40,5323 Chive Avenue,2486,NSW,Australia,7
 3156,Male,23,1976-09-28,Financial Services,Mass Customer,0,0,4.0,45,40,63663 Darwin Crossing,2565,NSW,Australia,10
-3157,Male,46,1997-07-19,Retail,Mass Customer,0,1,1.0,24,20,16 Hansons Hill,2454,NSW,Australia,7
+3157,Male,46,1997-07-19,Retail,Mass Customer,0,1,1.0,25,20,16 Hansons Hill,2454,NSW,Australia,7
 3158,Male,27,1970-05-02,Telecommunications,Mass Customer,0,1,12.0,52,50,64 Quincy Alley,4170,QLD,Australia,9
 3159,Male,16,1967-02-01,Financial Services,Affluent Customer,0,0,12.0,55,60,541 Ramsey Alley,3201,VIC,Australia,7
 3160,Male,87,1978-07-03,IT,Mass Customer,0,0,21.0,44,40,9890 Macpherson Drive,2224,NSW,Australia,10
@@ -2634,7 +2634,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3217,Female,95,1968-03-12,Manufacturing,Mass Customer,0,0,8.0,54,50,17 Nevada Drive,2122,NSW,Australia,11
 3218,Female,38,1976-02-12,Argiculture,Mass Customer,0,1,22.0,46,50,8200 Dapin Drive,4503,QLD,Australia,4
 3219,Female,94,1998-01-06,Financial Services,Mass Customer,0,0,3.0,24,20,423 Mcbride Place,2477,NSW,Australia,7
-3220,Male,53,1972-07-26,Manufacturing,Affluent Customer,0,0,11.0,49,50,580 Blaine Center,2029,NSW,Australia,10
+3220,Male,53,1972-07-26,Manufacturing,Affluent Customer,0,0,11.0,50,50,580 Blaine Center,2029,NSW,Australia,10
 3221,Female,59,1959-09-25,Property,High Net Worth,0,1,11.0,62,60,11 Crescent Oaks Junction,4055,QLD,Australia,8
 3224,Female,67,1996-03-12,Manufacturing,Affluent Customer,0,0,3.0,26,30,50506 Buhler Terrace,3083,VIC,Australia,8
 3225,Male,19,1980-06-19,Health,Mass Customer,0,1,4.0,42,40,5 Iowa Road,2154,NSW,Australia,11
@@ -2649,7 +2649,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3235,Male,88,1965-05-15,Property,Affluent Customer,0,1,12.0,57,60,322 Garrison Way,3169,VIC,Australia,9
 3236,Male,37,1993-04-01,Manufacturing,Mass Customer,0,1,5.0,29,30,1 Roth Pass,3199,VIC,Australia,4
 3237,Female,94,1964-08-15,Manufacturing,Mass Customer,0,0,13.0,57,60,225 Dexter Crossing,2527,NSW,Australia,8
-3238,Male,23,1977-07-20,Retail,Mass Customer,0,0,14.0,44,40,8 Rockefeller Lane,2306,NSW,Australia,4
+3238,Male,23,1977-07-20,Retail,Mass Customer,0,0,14.0,45,40,8 Rockefeller Lane,2306,NSW,Australia,4
 3239,Female,15,1971-12-06,Health,High Net Worth,0,0,5.0,50,50,9 Dixon Crossing,3793,VIC,Australia,7
 3241,Male,34,1979-10-29,Manufacturing,Mass Customer,0,1,16.0,42,40,7574 Onsgard Drive,4011,QLD,Australia,7
 3242,Female,4,1958-03-07,Manufacturing,Affluent Customer,0,1,14.0,64,60,683 Scoville Park,3168,VIC,Australia,8
@@ -2761,7 +2761,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3380,Male,41,1955-01-09,Manufacturing,High Net Worth,0,1,14.0,67,70,2 Roxbury Pass,3977,VIC,Australia,5
 3383,Male,47,1982-04-05,Financial Services,Affluent Customer,0,1,10.0,40,40,48 Rockefeller Court,3786,VIC,Australia,8
 3385,Female,23,1975-02-10,Argiculture,Mass Customer,0,0,9.0,47,50,31 Dovetail Trail,2088,NSW,Australia,9
-3386,Male,24,1999-07-28,IT,High Net Worth,0,1,2.0,22,20,367 Talmadge Way,2705,NSW,Australia,1
+3386,Male,24,1999-07-28,IT,High Net Worth,0,1,2.0,23,20,367 Talmadge Way,2705,NSW,Australia,1
 3387,Female,19,1976-07-05,Manufacturing,Affluent Customer,0,1,15.0,46,50,513 Hauk Street,2261,NSW,Australia,9
 3388,Male,81,1986-10-25,Retail,Mass Customer,0,0,7.0,35,40,72728 Ruskin Way,2291,NSW,Australia,6
 3391,Male,93,1991-06-23,Manufacturing,Mass Customer,0,0,7.0,31,30,312 Swallow Place,3021,VIC,Australia,7
@@ -2773,7 +2773,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3397,Female,70,1985-08-19,IT,Mass Customer,0,0,11.0,36,40,7 Eggendart Hill,4055,QLD,Australia,8
 3399,Male,95,1996-05-10,Financial Services,Mass Customer,0,0,2.0,26,30,2 Monterey Terrace,2120,NSW,Australia,9
 3400,Female,46,1987-06-25,Financial Services,Mass Customer,0,1,18.0,35,40,851 Meadow Valley Place,3205,VIC,Australia,10
-3401,Female,92,1993-07-28,Telecommunications,Mass Customer,0,1,4.0,28,30,6851 Orin Parkway,2142,NSW,Australia,10
+3401,Female,92,1993-07-28,Telecommunications,Mass Customer,0,1,4.0,29,30,6851 Orin Parkway,2142,NSW,Australia,10
 3402,Female,73,1985-05-04,Retail,Mass Customer,0,0,10.0,37,40,73 Glacier Hill Drive,2880,NSW,Australia,1
 3403,Female,27,1994-05-14,Financial Services,Mass Customer,0,1,2.0,28,30,59364 Huxley Drive,3028,VIC,Australia,5
 3404,Female,2,1973-08-01,Property,Affluent Customer,0,0,22.0,48,50,91 Charing Cross Way,2100,NSW,Australia,11
@@ -2844,7 +2844,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3483,Male,19,1956-10-02,Health,High Net Worth,0,1,15.0,65,60,93 Vera Parkway,4216,QLD,Australia,5
 3484,Female,10,1976-10-24,Financial Services,High Net Worth,0,1,20.0,45,40,3 Butterfield Trail,4519,QLD,Australia,6
 3485,Female,11,1981-05-21,Financial Services,High Net Worth,0,1,9.0,41,40,22976 Moose Place,2620,NSW,Australia,8
-3486,Male,67,1956-07-25,Manufacturing,Mass Customer,0,0,18.0,65,60,8934 Havey Plaza,2548,NSW,Australia,8
+3486,Male,67,1956-07-25,Manufacturing,Mass Customer,0,0,18.0,66,70,8934 Havey Plaza,2548,NSW,Australia,8
 3487,Female,4,1977-12-15,Health,High Net Worth,0,0,18.0,44,40,30011 Manufacturers Hill,3146,VIC,Australia,9
 3488,Male,63,1975-08-07,Manufacturing,Mass Customer,0,1,9.0,46,50,42293 Banding Plaza,2136,NSW,Australia,10
 3489,Female,90,1969-10-30,Argiculture,Mass Customer,0,1,9.0,52,50,62 Tennyson Way,2099,NSW,Australia,11
@@ -2858,7 +2858,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3497,Female,73,1986-05-03,Manufacturing,Affluent Customer,0,1,18.0,36,40,96 Delladonna Trail,3976,VIC,Australia,5
 3498,Female,28,1995-11-02,Manufacturing,Mass Customer,0,0,5.0,26,30,3 Nova Point,3012,VIC,Australia,4
 3499,Male,29,1979-06-17,Manufacturing,Mass Customer,0,1,7.0,43,40,310 Stephen Terrace,4073,QLD,Australia,9
-3500,Female,71,1967-07-21,Entertainment,Affluent Customer,0,0,17.0,54,50,9491 Green Ridge Terrace,2100,NSW,Australia,10
+3500,Female,71,1967-07-21,Entertainment,Affluent Customer,0,0,17.0,55,60,9491 Green Ridge Terrace,2100,NSW,Australia,10
 3501,Female,63,1970-01-19,Telecommunications,Mass Customer,0,1,18.0,52,50,16 Carberry Pass,2119,NSW,Australia,11
 3502,Male,5,1997-10-16,Retail,High Net Worth,0,1,3.0,24,20,12 Elgar Place,2155,NSW,Australia,10
 3503,Female,53,1979-03-12,Financial Services,Affluent Customer,0,1,10.0,43,40,8749 Menomonie Point,2122,NSW,Australia,11
@@ -2882,7 +2882,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3528,Male,69,1964-04-06,Manufacturing,Mass Customer,0,1,7.0,58,60,6 Moulton Point,2145,NSW,Australia,10
 3529,Female,37,1960-11-23,IT,High Net Worth,0,1,16.0,61,60,6 Rockefeller Lane,2294,NSW,Australia,7
 3531,Female,4,1969-01-27,Retail,Affluent Customer,0,1,11.0,53,50,75 Grim Circle,2147,NSW,Australia,10
-3532,Female,27,1990-07-24,Health,High Net Worth,0,1,7.0,31,30,88 Bunting Hill,3978,VIC,Australia,6
+3532,Female,27,1990-07-24,Health,High Net Worth,0,1,7.0,32,30,88 Bunting Hill,3978,VIC,Australia,6
 3533,Male,62,1981-02-14,Financial Services,Affluent Customer,0,1,8.0,41,40,7547 Garrison Alley,2705,NSW,Australia,5
 3534,Female,92,1975-05-15,Manufacturing,Affluent Customer,0,1,3.0,47,50,3605 Vidon Hill,3305,VIC,Australia,1
 3535,Female,8,1994-09-15,Manufacturing,High Net Worth,0,0,6.0,27,30,0485 Petterle Terrace,2575,NSW,Australia,6
@@ -2924,7 +2924,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3582,Female,66,1961-12-11,Property,Mass Customer,0,0,17.0,60,60,878 Cody Point,2155,NSW,Australia,10
 3583,Female,71,1965-05-27,Retail,Affluent Customer,0,0,5.0,57,60,66028 Randy Terrace,2155,NSW,Australia,10
 3584,Male,95,1962-01-14,Health,Mass Customer,0,0,10.0,60,60,78478 Pond Road,4128,QLD,Australia,7
-3585,Female,41,1962-07-28,Financial Services,High Net Worth,0,1,20.0,59,60,062 Dixon Parkway,3103,VIC,Australia,12
+3585,Female,41,1962-07-28,Financial Services,High Net Worth,0,1,20.0,60,60,062 Dixon Parkway,3103,VIC,Australia,12
 3586,Female,79,1979-02-05,Health,Affluent Customer,0,0,10.0,43,40,344 Delladonna Place,2196,NSW,Australia,10
 3588,Female,15,1961-06-04,Health,Affluent Customer,0,1,18.0,61,60,33221 Maple Wood Place,2260,NSW,Australia,10
 3589,Female,73,1962-02-19,Health,High Net Worth,0,0,17.0,60,60,1 Esker Pass,4575,QLD,Australia,8
@@ -2951,7 +2951,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3616,Male,42,2001-04-02,Property,High Net Worth,0,0,2.0,21,20,4643 Cambridge Circle,3064,VIC,Australia,6
 3617,Female,11,1990-05-06,Manufacturing,Mass Customer,0,1,3.0,32,30,2 Armistice Parkway,2193,NSW,Australia,10
 3618,Male,2,1966-04-28,Retail,Affluent Customer,0,1,19.0,56,60,23301 Bluestem Drive,3146,VIC,Australia,8
-3620,Male,21,1991-07-30,Retail,Mass Customer,0,0,5.0,30,30,56747 Monument Avenue,4306,QLD,Australia,8
+3620,Male,21,1991-07-30,Retail,Mass Customer,0,0,5.0,31,30,56747 Monument Avenue,4306,QLD,Australia,8
 3621,Female,13,1975-01-16,Health,High Net Worth,0,0,15.0,47,50,8 Harper Center,2650,NSW,Australia,3
 3622,Female,84,1983-09-02,Financial Services,Mass Customer,0,0,2.0,38,40,422 Valley Edge Pass,2000,NSW,Australia,10
 3623,Male,56,1984-11-25,Manufacturing,Affluent Customer,0,1,15.0,37,40,8651 Graceland Way,2830,NSW,Australia,1
@@ -3059,10 +3059,10 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3753,Female,16,1997-08-21,Manufacturing,Mass Customer,0,0,3.0,24,20,549 Randy Point,2560,NSW,Australia,7
 3754,Female,74,1961-02-16,Telecommunications,Mass Customer,0,0,19.0,61,60,09295 Judy Terrace,2753,NSW,Australia,8
 3755,Male,38,1994-05-10,Financial Services,High Net Worth,0,1,7.0,28,30,78 Southridge Parkway,2257,NSW,Australia,9
-3758,Female,71,1959-07-30,Telecommunications,Mass Customer,0,1,12.0,62,60,498 Golf Parkway,2144,NSW,Australia,10
+3758,Female,71,1959-07-30,Telecommunications,Mass Customer,0,1,12.0,63,60,498 Golf Parkway,2144,NSW,Australia,10
 3759,Female,68,1995-03-04,Property,Mass Customer,0,1,4.0,27,30,23 West Crossing,3192,VIC,Australia,7
 3760,Female,73,1976-06-09,Financial Services,Mass Customer,0,0,18.0,46,50,011 Johnson Park,3121,VIC,Australia,11
-3761,Female,87,1973-07-20,Telecommunications,Mass Customer,0,1,13.0,48,50,5 Atwood Crossing,2321,NSW,Australia,3
+3761,Female,87,1973-07-20,Telecommunications,Mass Customer,0,1,13.0,49,50,5 Atwood Crossing,2321,NSW,Australia,3
 3762,Female,48,1967-03-22,Property,Mass Customer,0,0,14.0,55,60,28008 Mesta Lane,2767,NSW,Australia,9
 3764,Female,29,1957-05-06,Financial Services,Mass Customer,0,1,15.0,65,60,31446 5th Court,3064,VIC,Australia,4
 3765,Female,20,1963-06-01,Property,Mass Customer,0,0,18.0,59,60,8397 Holy Cross Parkway,2087,NSW,Australia,11
@@ -3084,14 +3084,14 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3784,Male,56,1983-06-04,Financial Services,High Net Worth,0,0,13.0,39,40,464 Acker Way,2756,NSW,Australia,9
 3785,Female,93,1969-04-09,Financial Services,Affluent Customer,0,0,14.0,53,50,53533 Dakota Pass,2077,NSW,Australia,10
 3787,Female,1,1965-10-06,Manufacturing,High Net Worth,0,0,6.0,56,60,1 Carey Crossing,2047,NSW,Australia,10
-3788,Female,73,1962-07-21,Financial Services,Mass Customer,0,0,18.0,59,60,7524 David Place,2850,NSW,Australia,3
+3788,Female,73,1962-07-21,Financial Services,Mass Customer,0,0,18.0,60,60,7524 David Place,2850,NSW,Australia,3
 3789,Male,52,1956-08-08,Manufacturing,Mass Customer,0,1,6.0,65,60,7 Granby Crossing,3083,VIC,Australia,9
 3790,Male,91,1959-05-31,Retail,Mass Customer,1,1,9.0,63,60,8681 Dennis Pass,3215,VIC,Australia,3
 3791,Male,17,1993-05-26,Health,Affluent Customer,0,0,6.0,29,30,1 Pankratz Circle,3083,VIC,Australia,8
 3792,Female,81,1976-04-16,Financial Services,Affluent Customer,0,1,5.0,46,50,9904 Oakridge Parkway,4370,QLD,Australia,3
 3794,Female,47,1994-07-06,IT,Mass Customer,0,0,2.0,28,30,3463 Merchant Trail,3152,VIC,Australia,10
 3795,Male,88,1956-06-24,Argiculture,High Net Worth,0,1,5.0,66,70,699 Hudson Road,2138,NSW,Australia,9
-3796,Male,51,1965-07-27,Financial Services,Mass Customer,0,1,9.0,56,60,9 Dwight Drive,2710,NSW,Australia,1
+3796,Male,51,1965-07-27,Financial Services,Mass Customer,0,1,9.0,57,60,9 Dwight Drive,2710,NSW,Australia,1
 3797,Female,76,1979-08-18,Health,Affluent Customer,0,1,4.0,42,40,13 Colorado Lane,2099,NSW,Australia,9
 3798,Male,13,1968-02-22,Manufacturing,Mass Customer,0,1,17.0,54,50,39946 Kenwood Court,3070,VIC,Australia,9
 3799,Female,94,1971-01-28,Property,High Net Worth,0,0,18.0,51,50,72204 Springs Way,3104,VIC,Australia,12
@@ -3147,7 +3147,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3862,Female,1,1996-09-22,Health,Mass Customer,0,0,4.0,25,20,0618 5th Place,3189,VIC,Australia,10
 3863,Male,30,1985-12-06,Retail,High Net Worth,0,0,20.0,36,40,4662 Clemons Road,4270,QLD,Australia,8
 3865,Male,49,1978-03-15,Manufacturing,Mass Customer,0,1,11.0,44,40,3748 Lake View Lane,2590,NSW,Australia,1
-3866,Female,56,1990-07-18,Health,Mass Customer,0,1,9.0,31,30,3720 Anniversary Court,4812,QLD,Australia,2
+3866,Female,56,1990-07-18,Health,Mass Customer,0,1,9.0,32,30,3720 Anniversary Court,4812,QLD,Australia,2
 3867,Female,14,1998-10-09,IT,Mass Customer,0,1,1.0,23,20,85 Trailsway Road,3175,VIC,Australia,9
 3868,Female,60,1997-06-19,Health,Affluent Customer,0,1,4.0,25,20,388 Karstens Drive,2428,NSW,Australia,5
 3869,Female,58,1974-12-22,Manufacturing,Affluent Customer,0,0,13.0,47,50,6 Swallow Park,2165,NSW,Australia,7
@@ -3155,7 +3155,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3872,Female,14,1957-05-15,Retail,High Net Worth,0,1,12.0,65,60,1323 Maywood Plaza,2226,NSW,Australia,10
 3873,Male,32,1978-12-05,Financial Services,Mass Customer,0,0,11.0,43,40,17504 Spohn Center,2756,NSW,Australia,9
 3874,Male,47,1963-08-14,Financial Services,Mass Customer,0,0,19.0,58,60,02084 Rockefeller Crossing,2150,NSW,Australia,7
-3875,Male,2,1985-07-27,Manufacturing,Mass Customer,0,1,5.0,36,40,16 Montana Way,2478,NSW,Australia,7
+3875,Male,2,1985-07-27,Manufacturing,Mass Customer,0,1,5.0,37,40,16 Montana Way,2478,NSW,Australia,7
 3876,Female,22,1967-05-16,Financial Services,High Net Worth,0,0,16.0,55,60,2 Victoria Crossing,3280,VIC,Australia,2
 3880,Female,77,1968-01-13,Manufacturing,Mass Customer,0,0,14.0,54,50,2079 Del Sol Hill,2761,NSW,Australia,8
 3881,Female,50,1971-01-12,Financial Services,Affluent Customer,0,0,18.0,51,50,9 Columbus Pass,2327,NSW,Australia,3
@@ -3187,7 +3187,7 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3915,Female,17,1959-06-23,Financial Services,Affluent Customer,0,0,15.0,63,60,47 Spenser Circle,2770,NSW,Australia,7
 3916,Female,31,1958-10-17,Retail,Affluent Customer,0,1,17.0,63,60,15051 Monterey Street,2756,NSW,Australia,8
 3917,Male,79,1997-12-26,Manufacturing,Mass Customer,0,0,4.0,24,20,7365 Carioca Hill,4680,QLD,Australia,4
-3919,Female,38,1963-07-30,Financial Services,High Net Worth,0,0,18.0,58,60,802 Bashford Hill,3150,VIC,Australia,10
+3919,Female,38,1963-07-30,Financial Services,High Net Worth,0,0,18.0,59,60,802 Bashford Hill,3150,VIC,Australia,10
 3920,Male,90,1961-01-21,Telecommunications,Mass Customer,0,1,9.0,61,60,12548 Eagan Court,2768,NSW,Australia,9
 3921,Female,93,1976-03-09,Manufacturing,High Net Worth,0,0,10.0,46,50,24167 Montana Place,2065,NSW,Australia,12
 3922,Male,90,1981-05-29,Financial Services,Mass Customer,0,1,3.0,41,40,0 Southridge Drive,4311,QLD,Australia,1
@@ -3222,8 +3222,8 @@ customer_id,gender,p3bkrel_pur,DOB,job_industry_category,wealth_segment,deceased
 3960,Male,6,2000-03-16,Property,Mass Customer,0,0,1.0,22,20,95228 Forster Road,3085,VIC,Australia,9
 3961,Female,11,1992-07-05,Health,High Net Worth,0,1,5.0,30,30,388 Shoshone Trail,2234,NSW,Australia,10
 3962,Male,17,1977-10-06,Argiculture,High Net Worth,0,1,14.0,44,40,67 Lakewood Gardens Circle,2506,NSW,Australia,7
-3964,Female,28,1956-07-21,Manufacturing,High Net Worth,0,0,5.0,65,60,35 Larry Plaza,2093,NSW,Australia,9
-3965,Female,39,1984-07-24,Manufacturing,Mass Customer,0,1,13.0,37,40,9 Hooker Street,2770,NSW,Australia,7
+3964,Female,28,1956-07-21,Manufacturing,High Net Worth,0,0,5.0,66,70,35 Larry Plaza,2093,NSW,Australia,9
+3965,Female,39,1984-07-24,Manufacturing,Mass Customer,0,1,13.0,38,40,9 Hooker Street,2770,NSW,Australia,7
 3967,Female,90,1978-04-18,Manufacturing,Affluent Customer,0,0,7.0,44,40,41 Superior Crossing,2747,NSW,Australia,8
 3968,Female,99,1977-12-22,Property,High Net Worth,0,0,22.0,44,40,721 Morrow Plaza,2069,NSW,Australia,12
 3969,Female,93,1977-07-16,Manufacturing,Affluent Customer,0,1,10.0,45,40,8578 Mifflin Pass,2170,NSW,Australia,5
